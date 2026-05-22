@@ -1,0 +1,1908 @@
+competition_id,season,round,date,home_club_name,away_club_name,aggregate
+IT1,2025,1. Matchday,2025-08-24,Atalanta,Pisa,1:1
+IT1,2025,1. Matchday,2025-08-24,Cagliari,Fiorentina,1:1
+IT1,2025,1. Matchday,2025-08-24,Como,Lazio,2:0
+IT1,2025,1. Matchday,2025-08-23,Genoa,Lecce,0:0
+IT1,2025,1. Matchday,2025-08-25,Inter,Torino,5:0
+IT1,2025,1. Matchday,2025-08-24,Juventus,Parma,2:0
+IT1,2025,1. Matchday,2025-08-23,Milan,Cremonese,1:2
+IT1,2025,1. Matchday,2025-08-23,Roma,Bologna,1:0
+IT1,2025,1. Matchday,2025-08-23,Sassuolo,Napoli,0:2
+IT1,2025,1. Matchday,2025-08-25,Udinese,Verona,1:1
+IT1,2025,2. Matchday,2025-08-30,Bologna,Como,1:0
+IT1,2025,2. Matchday,2025-08-29,Cremonese,Sassuolo,3:2
+IT1,2025,2. Matchday,2025-08-31,Genoa,Juventus,0:1
+IT1,2025,2. Matchday,2025-08-31,Inter,Udinese,1:2
+IT1,2025,2. Matchday,2025-08-31,Lazio,Verona,4:0
+IT1,2025,2. Matchday,2025-08-29,Lecce,Milan,0:2
+IT1,2025,2. Matchday,2025-08-30,Napoli,Cagliari,1:0
+IT1,2025,2. Matchday,2025-08-30,Parma,Atalanta,1:1
+IT1,2025,2. Matchday,2025-08-30,Pisa,Roma,0:1
+IT1,2025,2. Matchday,2025-08-31,Torino,Fiorentina,0:0
+IT1,2025,3. Matchday,2025-09-14,Atalanta,Lecce,4:1
+IT1,2025,3. Matchday,2025-09-13,Cagliari,Parma,2:0
+IT1,2025,3. Matchday,2025-09-15,Como,Genoa,1:1
+IT1,2025,3. Matchday,2025-09-13,Fiorentina,Napoli,1:3
+IT1,2025,3. Matchday,2025-09-13,Juventus,Inter,4:3
+IT1,2025,3. Matchday,2025-09-14,Milan,Bologna,1:0
+IT1,2025,3. Matchday,2025-09-14,Pisa,Udinese,0:1
+IT1,2025,3. Matchday,2025-09-14,Roma,Torino,0:1
+IT1,2025,3. Matchday,2025-09-14,Sassuolo,Lazio,1:0
+IT1,2025,3. Matchday,2025-09-15,Verona,Cremonese,0:0
+IT1,2025,4. Matchday,2025-09-20,Bologna,Genoa,2:1
+IT1,2025,4. Matchday,2025-09-21,Cremonese,Parma,0:0
+IT1,2025,4. Matchday,2025-09-21,Fiorentina,Como,1:2
+IT1,2025,4. Matchday,2025-09-21,Inter,Sassuolo,2:1
+IT1,2025,4. Matchday,2025-09-21,Lazio,Roma,0:1
+IT1,2025,4. Matchday,2025-09-19,Lecce,Cagliari,1:2
+IT1,2025,4. Matchday,2025-09-22,Napoli,Pisa,3:2
+IT1,2025,4. Matchday,2025-09-21,Torino,Atalanta,0:3
+IT1,2025,4. Matchday,2025-09-20,Udinese,Milan,0:3
+IT1,2025,4. Matchday,2025-09-20,Verona,Juventus,1:1
+IT1,2025,5. Matchday,2025-09-27,Cagliari,Inter,0:2
+IT1,2025,5. Matchday,2025-09-27,Como,Cremonese,1:1
+IT1,2025,5. Matchday,2025-09-29,Genoa,Lazio,0:3
+IT1,2025,5. Matchday,2025-09-27,Juventus,Atalanta,1:1
+IT1,2025,5. Matchday,2025-09-28,Lecce,Bologna,2:2
+IT1,2025,5. Matchday,2025-09-28,Milan,Napoli,2:1
+IT1,2025,5. Matchday,2025-09-29,Parma,Torino,2:1
+IT1,2025,5. Matchday,2025-09-28,Pisa,Fiorentina,0:0
+IT1,2025,5. Matchday,2025-09-28,Roma,Verona,2:0
+IT1,2025,5. Matchday,2025-09-28,Sassuolo,Udinese,3:1
+IT1,2025,6. Matchday,2025-10-04,Atalanta,Como,1:1
+IT1,2025,6. Matchday,2025-10-05,Bologna,Pisa,4:0
+IT1,2025,6. Matchday,2025-10-05,Fiorentina,Roma,1:2
+IT1,2025,6. Matchday,2025-10-04,Inter,Cremonese,4:1
+IT1,2025,6. Matchday,2025-10-05,Juventus,Milan,0:0
+IT1,2025,6. Matchday,2025-10-04,Lazio,Torino,3:3
+IT1,2025,6. Matchday,2025-10-05,Napoli,Genoa,2:1
+IT1,2025,6. Matchday,2025-10-04,Parma,Lecce,0:1
+IT1,2025,6. Matchday,2025-10-05,Udinese,Cagliari,1:1
+IT1,2025,6. Matchday,2025-10-03,Verona,Sassuolo,0:1
+IT1,2025,7. Matchday,2025-10-19,Atalanta,Lazio,0:0
+IT1,2025,7. Matchday,2025-10-19,Cagliari,Bologna,0:2
+IT1,2025,7. Matchday,2025-10-19,Como,Juventus,2:0
+IT1,2025,7. Matchday,2025-10-20,Cremonese,Udinese,1:1
+IT1,2025,7. Matchday,2025-10-19,Genoa,Parma,0:0
+IT1,2025,7. Matchday,2025-10-18,Lecce,Sassuolo,0:0
+IT1,2025,7. Matchday,2025-10-19,Milan,Fiorentina,2:1
+IT1,2025,7. Matchday,2025-10-18,Pisa,Verona,0:0
+IT1,2025,7. Matchday,2025-10-18,Roma,Inter,0:1
+IT1,2025,7. Matchday,2025-10-18,Torino,Napoli,1:0
+IT1,2025,8. Matchday,2025-10-25,Cremonese,Atalanta,1:1
+IT1,2025,8. Matchday,2025-10-26,Fiorentina,Bologna,2:2
+IT1,2025,8. Matchday,2025-10-26,Lazio,Juventus,1:0
+IT1,2025,8. Matchday,2025-10-24,Milan,Pisa,2:2
+IT1,2025,8. Matchday,2025-10-25,Napoli,Inter,3:1
+IT1,2025,8. Matchday,2025-10-25,Parma,Como,0:0
+IT1,2025,8. Matchday,2025-10-26,Sassuolo,Roma,0:1
+IT1,2025,8. Matchday,2025-10-26,Torino,Genoa,2:1
+IT1,2025,8. Matchday,2025-10-25,Udinese,Lecce,3:2
+IT1,2025,8. Matchday,2025-10-26,Verona,Cagliari,2:2
+IT1,2025,9. Matchday,2025-10-28,Atalanta,Milan,1:1
+IT1,2025,9. Matchday,2025-10-29,Bologna,Torino,0:0
+IT1,2025,9. Matchday,2025-10-30,Cagliari,Sassuolo,1:2
+IT1,2025,9. Matchday,2025-10-29,Como,Verona,3:1
+IT1,2025,9. Matchday,2025-10-29,Genoa,Cremonese,0:2
+IT1,2025,9. Matchday,2025-10-29,Inter,Fiorentina,3:0
+IT1,2025,9. Matchday,2025-10-29,Juventus,Udinese,3:1
+IT1,2025,9. Matchday,2025-10-28,Lecce,Napoli,0:1
+IT1,2025,9. Matchday,2025-10-30,Pisa,Lazio,0:0
+IT1,2025,9. Matchday,2025-10-29,Roma,Parma,2:1
+IT1,2025,10. Matchday,2025-11-01,Cremonese,Juventus,1:2
+IT1,2025,10. Matchday,2025-11-02,Fiorentina,Lecce,0:1
+IT1,2025,10. Matchday,2025-11-03,Lazio,Cagliari,2:0
+IT1,2025,10. Matchday,2025-11-02,Milan,Roma,1:0
+IT1,2025,10. Matchday,2025-11-01,Napoli,Como,0:0
+IT1,2025,10. Matchday,2025-11-02,Parma,Bologna,1:3
+IT1,2025,10. Matchday,2025-11-03,Sassuolo,Genoa,1:2
+IT1,2025,10. Matchday,2025-11-02,Torino,Pisa,2:2
+IT1,2025,10. Matchday,2025-11-01,Udinese,Atalanta,1:0
+IT1,2025,10. Matchday,2025-11-02,Verona,Inter,1:2
+IT1,2025,11. Matchday,2025-11-09,Atalanta,Sassuolo,0:3
+IT1,2025,11. Matchday,2025-11-09,Bologna,Napoli,2:0
+IT1,2025,11. Matchday,2025-11-08,Como,Cagliari,0:0
+IT1,2025,11. Matchday,2025-11-09,Genoa,Fiorentina,2:2
+IT1,2025,11. Matchday,2025-11-09,Inter,Lazio,2:0
+IT1,2025,11. Matchday,2025-11-08,Juventus,Torino,0:0
+IT1,2025,11. Matchday,2025-11-08,Lecce,Verona,0:0
+IT1,2025,11. Matchday,2025-11-08,Parma,Milan,2:2
+IT1,2025,11. Matchday,2025-11-07,Pisa,Cremonese,1:0
+IT1,2025,11. Matchday,2025-11-09,Roma,Udinese,2:0
+IT1,2025,12. Matchday,2025-11-22,Cagliari,Genoa,3:3
+IT1,2025,12. Matchday,2025-11-23,Cremonese,Roma,1:3
+IT1,2025,12. Matchday,2025-11-22,Fiorentina,Juventus,1:1
+IT1,2025,12. Matchday,2025-11-23,Inter,Milan,0:1
+IT1,2025,12. Matchday,2025-11-23,Lazio,Lecce,2:0
+IT1,2025,12. Matchday,2025-11-22,Napoli,Atalanta,3:1
+IT1,2025,12. Matchday,2025-11-24,Sassuolo,Pisa,2:2
+IT1,2025,12. Matchday,2025-11-24,Torino,Como,1:5
+IT1,2025,12. Matchday,2025-11-22,Udinese,Bologna,0:3
+IT1,2025,12. Matchday,2025-11-23,Verona,Parma,1:2
+IT1,2025,13. Matchday,2025-11-30,Atalanta,Fiorentina,2:0
+IT1,2025,13. Matchday,2025-12-01,Bologna,Cremonese,1:3
+IT1,2025,13. Matchday,2025-11-28,Como,Sassuolo,2:0
+IT1,2025,13. Matchday,2025-11-29,Genoa,Verona,2:1
+IT1,2025,13. Matchday,2025-11-29,Juventus,Cagliari,2:1
+IT1,2025,13. Matchday,2025-11-30,Lecce,Torino,2:1
+IT1,2025,13. Matchday,2025-11-29,Milan,Lazio,1:0
+IT1,2025,13. Matchday,2025-11-29,Parma,Udinese,0:2
+IT1,2025,13. Matchday,2025-11-30,Pisa,Inter,0:2
+IT1,2025,13. Matchday,2025-11-30,Roma,Napoli,0:1
+IT1,2025,14. Matchday,2025-12-07,Cagliari,Roma,1:0
+IT1,2025,14. Matchday,2025-12-07,Cremonese,Lecce,2:0
+IT1,2025,14. Matchday,2025-12-06,Inter,Como,4:0
+IT1,2025,14. Matchday,2025-12-07,Lazio,Bologna,1:1
+IT1,2025,14. Matchday,2025-12-07,Napoli,Juventus,2:1
+IT1,2025,14. Matchday,2025-12-08,Pisa,Parma,0:1
+IT1,2025,14. Matchday,2025-12-06,Sassuolo,Fiorentina,3:1
+IT1,2025,14. Matchday,2025-12-08,Torino,Milan,2:3
+IT1,2025,14. Matchday,2025-12-08,Udinese,Genoa,1:2
+IT1,2025,14. Matchday,2025-12-06,Verona,Atalanta,3:1
+IT1,2025,15. Matchday,2025-12-13,Atalanta,Cagliari,2:1
+IT1,2025,15. Matchday,2025-12-14,Bologna,Juventus,0:1
+IT1,2025,15. Matchday,2025-12-14,Fiorentina,Verona,1:2
+IT1,2025,15. Matchday,2025-12-14,Genoa,Inter,1:2
+IT1,2025,15. Matchday,2025-12-12,Lecce,Pisa,1:0
+IT1,2025,15. Matchday,2025-12-14,Milan,Sassuolo,2:2
+IT1,2025,15. Matchday,2025-12-13,Parma,Lazio,0:1
+IT1,2025,15. Matchday,2025-12-15,Roma,Como,1:0
+IT1,2025,15. Matchday,2025-12-13,Torino,Cremonese,1:0
+IT1,2025,15. Matchday,2025-12-14,Udinese,Napoli,1:0
+IT1,2025,16. Matchday,2025-12-21,Cagliari,Pisa,2:2
+IT1,2025,16. Matchday,2026-01-15,Como,Milan,1:3
+IT1,2025,16. Matchday,2025-12-21,Fiorentina,Udinese,5:1
+IT1,2025,16. Matchday,2025-12-21,Genoa,Atalanta,0:1
+IT1,2025,16. Matchday,2026-01-14,Inter,Lecce,1:0
+IT1,2025,16. Matchday,2025-12-20,Juventus,Roma,2:1
+IT1,2025,16. Matchday,2025-12-20,Lazio,Cremonese,0:0
+IT1,2025,16. Matchday,2026-01-14,Napoli,Parma,0:0
+IT1,2025,16. Matchday,2025-12-21,Sassuolo,Torino,0:1
+IT1,2025,16. Matchday,2026-01-15,Verona,Bologna,2:3
+IT1,2025,17. Matchday,2025-12-28,Atalanta,Inter,0:1
+IT1,2025,17. Matchday,2025-12-28,Bologna,Sassuolo,1:1
+IT1,2025,17. Matchday,2025-12-28,Cremonese,Napoli,0:2
+IT1,2025,17. Matchday,2025-12-27,Lecce,Como,0:3
+IT1,2025,17. Matchday,2025-12-28,Milan,Verona,3:0
+IT1,2025,17. Matchday,2025-12-27,Parma,Fiorentina,1:0
+IT1,2025,17. Matchday,2025-12-27,Pisa,Juventus,0:2
+IT1,2025,17. Matchday,2025-12-29,Roma,Genoa,3:1
+IT1,2025,17. Matchday,2025-12-27,Torino,Cagliari,1:2
+IT1,2025,17. Matchday,2025-12-27,Udinese,Lazio,1:1
+IT1,2025,18. Matchday,2026-01-03,Atalanta,Roma,1:0
+IT1,2025,18. Matchday,2026-01-02,Cagliari,Milan,0:1
+IT1,2025,18. Matchday,2026-01-03,Como,Udinese,1:0
+IT1,2025,18. Matchday,2026-01-04,Fiorentina,Cremonese,1:0
+IT1,2025,18. Matchday,2026-01-03,Genoa,Pisa,1:1
+IT1,2025,18. Matchday,2026-01-04,Inter,Bologna,3:1
+IT1,2025,18. Matchday,2026-01-03,Juventus,Lecce,1:1
+IT1,2025,18. Matchday,2026-01-04,Lazio,Napoli,0:2
+IT1,2025,18. Matchday,2026-01-03,Sassuolo,Parma,1:1
+IT1,2025,18. Matchday,2026-01-04,Verona,Torino,0:3
+IT1,2025,19. Matchday,2026-01-07,Bologna,Atalanta,0:2
+IT1,2025,19. Matchday,2026-01-08,Cremonese,Cagliari,2:2
+IT1,2025,19. Matchday,2026-01-07,Lazio,Fiorentina,2:2
+IT1,2025,19. Matchday,2026-01-06,Lecce,Roma,0:2
+IT1,2025,19. Matchday,2026-01-08,Milan,Genoa,1:1
+IT1,2025,19. Matchday,2026-01-07,Napoli,Verona,2:2
+IT1,2025,19. Matchday,2026-01-07,Parma,Inter,0:2
+IT1,2025,19. Matchday,2026-01-06,Pisa,Como,0:3
+IT1,2025,19. Matchday,2026-01-06,Sassuolo,Juventus,0:3
+IT1,2025,19. Matchday,2026-01-07,Torino,Udinese,1:2
+IT1,2025,20. Matchday,2026-01-10,Atalanta,Torino,2:0
+IT1,2025,20. Matchday,2026-01-10,Como,Bologna,1:1
+IT1,2025,20. Matchday,2026-01-11,Fiorentina,Milan,1:1
+IT1,2025,20. Matchday,2026-01-12,Genoa,Cagliari,3:0
+IT1,2025,20. Matchday,2026-01-11,Inter,Napoli,2:2
+IT1,2025,20. Matchday,2026-01-12,Juventus,Cremonese,5:0
+IT1,2025,20. Matchday,2026-01-11,Lecce,Parma,1:2
+IT1,2025,20. Matchday,2026-01-10,Roma,Sassuolo,2:0
+IT1,2025,20. Matchday,2026-01-10,Udinese,Pisa,2:2
+IT1,2025,20. Matchday,2026-01-11,Verona,Lazio,0:1
+IT1,2025,21. Matchday,2026-01-18,Bologna,Fiorentina,1:2
+IT1,2025,21. Matchday,2026-01-17,Cagliari,Juventus,1:0
+IT1,2025,21. Matchday,2026-01-19,Cremonese,Verona,0:0
+IT1,2025,21. Matchday,2026-01-19,Lazio,Como,0:3
+IT1,2025,21. Matchday,2026-01-18,Milan,Lecce,1:0
+IT1,2025,21. Matchday,2026-01-17,Napoli,Sassuolo,1:0
+IT1,2025,21. Matchday,2026-01-18,Parma,Genoa,0:0
+IT1,2025,21. Matchday,2026-01-16,Pisa,Atalanta,1:1
+IT1,2025,21. Matchday,2026-01-18,Torino,Roma,0:2
+IT1,2025,21. Matchday,2026-01-17,Udinese,Inter,0:1
+IT1,2025,22. Matchday,2026-01-25,Atalanta,Parma,4:0
+IT1,2025,22. Matchday,2026-01-24,Como,Torino,6:0
+IT1,2025,22. Matchday,2026-01-24,Fiorentina,Cagliari,1:2
+IT1,2025,22. Matchday,2026-01-25,Genoa,Bologna,3:2
+IT1,2025,22. Matchday,2026-01-23,Inter,Pisa,6:2
+IT1,2025,22. Matchday,2026-01-25,Juventus,Napoli,3:0
+IT1,2025,22. Matchday,2026-01-24,Lecce,Lazio,0:0
+IT1,2025,22. Matchday,2026-01-25,Roma,Milan,1:1
+IT1,2025,22. Matchday,2026-01-25,Sassuolo,Cremonese,1:0
+IT1,2025,22. Matchday,2026-01-26,Verona,Udinese,1:3
+IT1,2025,23. Matchday,2026-02-03,Bologna,Milan,0:3
+IT1,2025,23. Matchday,2026-01-31,Cagliari,Verona,4:0
+IT1,2025,23. Matchday,2026-02-01,Como,Atalanta,0:0
+IT1,2025,23. Matchday,2026-02-01,Cremonese,Inter,0:2
+IT1,2025,23. Matchday,2026-01-30,Lazio,Genoa,3:2
+IT1,2025,23. Matchday,2026-01-31,Napoli,Fiorentina,2:1
+IT1,2025,23. Matchday,2026-02-01,Parma,Juventus,1:4
+IT1,2025,23. Matchday,2026-01-31,Pisa,Sassuolo,1:3
+IT1,2025,23. Matchday,2026-02-01,Torino,Lecce,1:0
+IT1,2025,23. Matchday,2026-02-02,Udinese,Roma,1:0
+IT1,2025,24. Matchday,2026-02-09,Atalanta,Cremonese,2:1
+IT1,2025,24. Matchday,2026-02-08,Bologna,Parma,0:1
+IT1,2025,24. Matchday,2026-02-07,Fiorentina,Torino,2:2
+IT1,2025,24. Matchday,2026-02-07,Genoa,Napoli,2:3
+IT1,2025,24. Matchday,2026-02-08,Juventus,Lazio,2:2
+IT1,2025,24. Matchday,2026-02-08,Lecce,Udinese,2:1
+IT1,2025,24. Matchday,2026-02-18,Milan,Como,1:1
+IT1,2025,24. Matchday,2026-02-09,Roma,Cagliari,2:0
+IT1,2025,24. Matchday,2026-02-08,Sassuolo,Inter,0:5
+IT1,2025,24. Matchday,2026-02-06,Verona,Pisa,0:0
+IT1,2025,25. Matchday,2026-02-16,Cagliari,Lecce,0:2
+IT1,2025,25. Matchday,2026-02-14,Como,Fiorentina,1:2
+IT1,2025,25. Matchday,2026-02-15,Cremonese,Genoa,0:0
+IT1,2025,25. Matchday,2026-02-14,Inter,Juventus,3:2
+IT1,2025,25. Matchday,2026-02-14,Lazio,Atalanta,0:2
+IT1,2025,25. Matchday,2026-02-15,Napoli,Roma,2:2
+IT1,2025,25. Matchday,2026-02-15,Parma,Verona,2:1
+IT1,2025,25. Matchday,2026-02-13,Pisa,Milan,1:2
+IT1,2025,25. Matchday,2026-02-15,Torino,Bologna,1:2
+IT1,2025,25. Matchday,2026-02-15,Udinese,Sassuolo,1:2
+IT1,2025,26. Matchday,2026-02-22,Atalanta,Napoli,2:1
+IT1,2025,26. Matchday,2026-02-23,Bologna,Udinese,1:0
+IT1,2025,26. Matchday,2026-02-21,Cagliari,Lazio,0:0
+IT1,2025,26. Matchday,2026-02-23,Fiorentina,Pisa,1:0
+IT1,2025,26. Matchday,2026-02-22,Genoa,Torino,3:0
+IT1,2025,26. Matchday,2026-02-21,Juventus,Como,0:2
+IT1,2025,26. Matchday,2026-02-21,Lecce,Inter,0:2
+IT1,2025,26. Matchday,2026-02-22,Milan,Parma,0:1
+IT1,2025,26. Matchday,2026-02-22,Roma,Cremonese,3:0
+IT1,2025,26. Matchday,2026-02-20,Sassuolo,Verona,3:0
+IT1,2025,27. Matchday,2026-02-28,Como,Lecce,3:1
+IT1,2025,27. Matchday,2026-03-01,Cremonese,Milan,0:2
+IT1,2025,27. Matchday,2026-02-28,Inter,Genoa,2:0
+IT1,2025,27. Matchday,2026-02-27,Parma,Cagliari,1:1
+IT1,2025,27. Matchday,2026-03-02,Pisa,Bologna,0:1
+IT1,2025,27. Matchday,2026-03-01,Roma,Juventus,3:3
+IT1,2025,27. Matchday,2026-03-01,Sassuolo,Atalanta,2:1
+IT1,2025,27. Matchday,2026-03-01,Torino,Lazio,2:0
+IT1,2025,27. Matchday,2026-03-02,Udinese,Fiorentina,3:0
+IT1,2025,27. Matchday,2026-02-28,Verona,Napoli,1:2
+IT1,2025,28. Matchday,2026-03-07,Atalanta,Udinese,2:2
+IT1,2025,28. Matchday,2026-03-08,Bologna,Verona,1:2
+IT1,2025,28. Matchday,2026-03-07,Cagliari,Como,1:2
+IT1,2025,28. Matchday,2026-03-08,Fiorentina,Parma,0:0
+IT1,2025,28. Matchday,2026-03-08,Genoa,Roma,2:1
+IT1,2025,28. Matchday,2026-03-07,Juventus,Pisa,4:0
+IT1,2025,28. Matchday,2026-03-09,Lazio,Sassuolo,2:1
+IT1,2025,28. Matchday,2026-03-08,Lecce,Cremonese,2:1
+IT1,2025,28. Matchday,2026-03-08,Milan,Inter,1:0
+IT1,2025,28. Matchday,2026-03-06,Napoli,Torino,2:1
+IT1,2025,29. Matchday,2026-03-15,Como,Roma,2:1
+IT1,2025,29. Matchday,2026-03-16,Cremonese,Fiorentina,1:4
+IT1,2025,29. Matchday,2026-03-14,Inter,Atalanta,1:1
+IT1,2025,29. Matchday,2026-03-15,Lazio,Milan,1:0
+IT1,2025,29. Matchday,2026-03-14,Napoli,Lecce,2:1
+IT1,2025,29. Matchday,2026-03-15,Pisa,Cagliari,3:1
+IT1,2025,29. Matchday,2026-03-15,Sassuolo,Bologna,0:1
+IT1,2025,29. Matchday,2026-03-13,Torino,Parma,4:1
+IT1,2025,29. Matchday,2026-03-14,Udinese,Juventus,0:1
+IT1,2025,29. Matchday,2026-03-15,Verona,Genoa,0:2
+IT1,2025,30. Matchday,2026-03-22,Atalanta,Verona,1:0
+IT1,2025,30. Matchday,2026-03-22,Bologna,Lazio,0:2
+IT1,2025,30. Matchday,2026-03-20,Cagliari,Napoli,0:1
+IT1,2025,30. Matchday,2026-03-22,Como,Pisa,5:0
+IT1,2025,30. Matchday,2026-03-22,Fiorentina,Inter,1:1
+IT1,2025,30. Matchday,2026-03-20,Genoa,Udinese,0:2
+IT1,2025,30. Matchday,2026-03-21,Juventus,Sassuolo,1:1
+IT1,2025,30. Matchday,2026-03-21,Milan,Torino,3:2
+IT1,2025,30. Matchday,2026-03-21,Parma,Cremonese,0:2
+IT1,2025,30. Matchday,2026-03-22,Roma,Lecce,1:0
+IT1,2025,31. Matchday,2026-04-05,Cremonese,Bologna,1:2
+IT1,2025,31. Matchday,2026-04-05,Inter,Roma,5:2
+IT1,2025,31. Matchday,2026-04-06,Juventus,Genoa,2:0
+IT1,2025,31. Matchday,2026-04-04,Lazio,Parma,1:1
+IT1,2025,31. Matchday,2026-04-06,Lecce,Atalanta,0:3
+IT1,2025,31. Matchday,2026-04-06,Napoli,Milan,1:0
+IT1,2025,31. Matchday,2026-04-05,Pisa,Torino,0:1
+IT1,2025,31. Matchday,2026-04-04,Sassuolo,Cagliari,2:1
+IT1,2025,31. Matchday,2026-04-06,Udinese,Como,0:0
+IT1,2025,31. Matchday,2026-04-04,Verona,Fiorentina,0:1
+IT1,2025,32. Matchday,2026-04-11,Atalanta,Juventus,0:1
+IT1,2025,32. Matchday,2026-04-12,Bologna,Lecce,2:0
+IT1,2025,32. Matchday,2026-04-11,Cagliari,Cremonese,1:0
+IT1,2025,32. Matchday,2026-04-12,Como,Inter,3:4
+IT1,2025,32. Matchday,2026-04-13,Fiorentina,Lazio,1:0
+IT1,2025,32. Matchday,2026-04-12,Genoa,Sassuolo,2:1
+IT1,2025,32. Matchday,2026-04-11,Milan,Udinese,0:3
+IT1,2025,32. Matchday,2026-04-12,Parma,Napoli,1:1
+IT1,2025,32. Matchday,2026-04-10,Roma,Pisa,3:0
+IT1,2025,32. Matchday,2026-04-11,Torino,Verona,2:1
+IT1,2025,33. Matchday,2026-04-19,Cremonese,Torino,0:0
+IT1,2025,33. Matchday,2026-04-17,Inter,Cagliari,3:0
+IT1,2025,33. Matchday,2026-04-19,Juventus,Bologna,2:0
+IT1,2025,33. Matchday,2026-04-20,Lecce,Fiorentina,1:1
+IT1,2025,33. Matchday,2026-04-18,Napoli,Lazio,0:2
+IT1,2025,33. Matchday,2026-04-19,Pisa,Genoa,1:2
+IT1,2025,33. Matchday,2026-04-18,Roma,Atalanta,1:1
+IT1,2025,33. Matchday,2026-04-17,Sassuolo,Como,2:1
+IT1,2025,33. Matchday,2026-04-18,Udinese,Parma,0:1
+IT1,2025,33. Matchday,2026-04-19,Verona,Milan,0:1
+IT1,2025,34. Matchday,2026-04-25,Bologna,Roma,0:2
+IT1,2025,34. Matchday,2026-04-27,Cagliari,Atalanta,3:2
+IT1,2025,34. Matchday,2026-04-26,Fiorentina,Sassuolo,0:0
+IT1,2025,34. Matchday,2026-04-26,Genoa,Como,0:2
+IT1,2025,34. Matchday,2026-04-27,Lazio,Udinese,3:3
+IT1,2025,34. Matchday,2026-04-26,Milan,Juventus,0:0
+IT1,2025,34. Matchday,2026-04-24,Napoli,Cremonese,4:0
+IT1,2025,34. Matchday,2026-04-25,Parma,Pisa,1:0
+IT1,2025,34. Matchday,2026-04-26,Torino,Inter,2:2
+IT1,2025,34. Matchday,2026-04-25,Verona,Lecce,0:0
+IT1,2025,35. Matchday,2026-05-02,Atalanta,Genoa,0:0
+IT1,2025,35. Matchday,2026-05-03,Bologna,Cagliari,0:0
+IT1,2025,35. Matchday,2026-05-02,Como,Napoli,0:0
+IT1,2025,35. Matchday,2026-05-04,Cremonese,Lazio,1:2
+IT1,2025,35. Matchday,2026-05-03,Inter,Parma,2:0
+IT1,2025,35. Matchday,2026-05-03,Juventus,Verona,1:1
+IT1,2025,35. Matchday,2026-05-01,Pisa,Lecce,1:2
+IT1,2025,35. Matchday,2026-05-04,Roma,Fiorentina,4:0
+IT1,2025,35. Matchday,2026-05-03,Sassuolo,Milan,2:0
+IT1,2025,35. Matchday,2026-05-02,Udinese,Torino,2:0
+IT1,2025,36. Matchday,2026-05-09,Cagliari,Udinese,0:2
+IT1,2025,36. Matchday,2026-05-10,Cremonese,Pisa,3:0
+IT1,2025,36. Matchday,2026-05-10,Fiorentina,Genoa,0:0
+IT1,2025,36. Matchday,2026-05-09,Lazio,Inter,0:3
+IT1,2025,36. Matchday,2026-05-09,Lecce,Juventus,0:1
+IT1,2025,36. Matchday,2026-05-10,Milan,Atalanta,2:3
+IT1,2025,36. Matchday,2026-05-11,Napoli,Bologna,2:3
+IT1,2025,36. Matchday,2026-05-10,Parma,Roma,2:3
+IT1,2025,36. Matchday,2026-05-08,Torino,Sassuolo,2:1
+IT1,2025,36. Matchday,2026-05-10,Verona,Como,0:1
+IT1,2025,37. Matchday,2026-05-17,Atalanta,Bologna,0:1
+IT1,2025,37. Matchday,2026-05-17,Cagliari,Torino,2:1
+IT1,2025,37. Matchday,2026-05-17,Como,Parma,1:0
+IT1,2025,37. Matchday,2026-05-17,Genoa,Milan,1:2
+IT1,2025,37. Matchday,2026-05-17,Inter,Verona,1:1
+IT1,2025,37. Matchday,2026-05-17,Juventus,Fiorentina,0:2
+IT1,2025,37. Matchday,2026-05-17,Pisa,Napoli,0:3
+IT1,2025,37. Matchday,2026-05-17,Roma,Lazio,2:0
+IT1,2025,37. Matchday,2026-05-17,Sassuolo,Lecce,2:3
+IT1,2025,37. Matchday,2026-05-17,Udinese,Cremonese,0:1
+GB1,2025,1. Matchday,2025-08-15,Liverpool,Bournemouth,4:2
+GB1,2025,1. Matchday,2025-08-16,Aston Villa,Newcastle,0:0
+GB1,2025,1. Matchday,2025-08-17,Nottingham Forest,Brentford,3:1
+GB1,2025,1. Matchday,2025-08-16,Brighton,Fulham,1:1
+GB1,2025,1. Matchday,2025-08-16,Sunderland,West Ham,3:0
+GB1,2025,1. Matchday,2025-08-16,Tottenham,Burnley,3:0
+GB1,2025,1. Matchday,2025-08-16,Wolves,Man City,0:4
+GB1,2025,1. Matchday,2025-08-17,Chelsea,Crystal Palace,0:0
+GB1,2025,1. Matchday,2025-08-17,Man Utd,Arsenal,0:1
+GB1,2025,1. Matchday,2025-08-18,Leeds United,Everton,1:0
+GB1,2025,2. Matchday,2025-08-22,West Ham,Chelsea,1:5
+GB1,2025,2. Matchday,2025-08-25,Newcastle,Liverpool,2:3
+GB1,2025,2. Matchday,2025-08-23,Man City,Tottenham,0:2
+GB1,2025,2. Matchday,2025-08-24,Fulham,Man Utd,1:1
+GB1,2025,2. Matchday,2025-08-24,Everton,Brighton,2:0
+GB1,2025,2. Matchday,2025-08-23,Bournemouth,Wolves,1:0
+GB1,2025,2. Matchday,2025-08-23,Arsenal,Leeds United,5:0
+GB1,2025,2. Matchday,2025-08-23,Brentford,Aston Villa,1:0
+GB1,2025,2. Matchday,2025-08-23,Burnley,Sunderland,2:0
+GB1,2025,2. Matchday,2025-08-24,Crystal Palace,Nottingham Forest,1:1
+GB1,2025,3. Matchday,2025-08-31,Aston Villa,Crystal Palace,0:3
+GB1,2025,3. Matchday,2025-08-31,Brighton,Man City,2:1
+GB1,2025,3. Matchday,2025-08-30,Chelsea,Fulham,2:0
+GB1,2025,3. Matchday,2025-08-30,Leeds United,Newcastle,0:0
+GB1,2025,3. Matchday,2025-08-31,Liverpool,Arsenal,1:0
+GB1,2025,3. Matchday,2025-08-30,Man Utd,Burnley,3:2
+GB1,2025,3. Matchday,2025-08-31,Nottingham Forest,West Ham,0:3
+GB1,2025,3. Matchday,2025-08-30,Sunderland,Brentford,2:1
+GB1,2025,3. Matchday,2025-08-30,Tottenham,Bournemouth,0:1
+GB1,2025,3. Matchday,2025-08-30,Wolves,Everton,2:3
+GB1,2025,4. Matchday,2025-09-13,Arsenal,Nottingham Forest,3:0
+GB1,2025,4. Matchday,2025-09-13,Bournemouth,Brighton,2:1
+GB1,2025,4. Matchday,2025-09-13,Brentford,Chelsea,2:2
+GB1,2025,4. Matchday,2025-09-14,Burnley,Liverpool,0:1
+GB1,2025,4. Matchday,2025-09-13,Crystal Palace,Sunderland,0:0
+GB1,2025,4. Matchday,2025-09-13,Everton,Aston Villa,0:0
+GB1,2025,4. Matchday,2025-09-13,Fulham,Leeds United,1:0
+GB1,2025,4. Matchday,2025-09-14,Man City,Man Utd,3:0
+GB1,2025,4. Matchday,2025-09-13,Newcastle,Wolves,1:0
+GB1,2025,4. Matchday,2025-09-13,West Ham,Tottenham,0:3
+GB1,2025,5. Matchday,2025-09-21,Arsenal,Man City,1:1
+GB1,2025,5. Matchday,2025-09-21,Bournemouth,Newcastle,0:0
+GB1,2025,5. Matchday,2025-09-20,Brighton,Tottenham,2:2
+GB1,2025,5. Matchday,2025-09-20,Burnley,Nottingham Forest,1:1
+GB1,2025,5. Matchday,2025-09-20,Fulham,Brentford,3:1
+GB1,2025,5. Matchday,2025-09-20,Liverpool,Everton,2:1
+GB1,2025,5. Matchday,2025-09-20,Man Utd,Chelsea,2:1
+GB1,2025,5. Matchday,2025-09-21,Sunderland,Aston Villa,1:1
+GB1,2025,5. Matchday,2025-09-20,West Ham,Crystal Palace,1:2
+GB1,2025,5. Matchday,2025-09-20,Wolves,Leeds United,1:3
+GB1,2025,6. Matchday,2025-09-28,Aston Villa,Fulham,3:1
+GB1,2025,6. Matchday,2025-09-27,Brentford,Man Utd,3:1
+GB1,2025,6. Matchday,2025-09-27,Chelsea,Brighton,1:3
+GB1,2025,6. Matchday,2025-09-27,Crystal Palace,Liverpool,2:1
+GB1,2025,6. Matchday,2025-09-29,Everton,West Ham,1:1
+GB1,2025,6. Matchday,2025-09-27,Leeds United,Bournemouth,2:2
+GB1,2025,6. Matchday,2025-09-27,Man City,Burnley,5:1
+GB1,2025,6. Matchday,2025-09-28,Newcastle,Arsenal,1:2
+GB1,2025,6. Matchday,2025-09-27,Nottingham Forest,Sunderland,0:1
+GB1,2025,6. Matchday,2025-09-27,Tottenham,Wolves,1:1
+GB1,2025,7. Matchday,2025-10-04,Arsenal,West Ham,2:0
+GB1,2025,7. Matchday,2025-10-05,Aston Villa,Burnley,2:1
+GB1,2025,7. Matchday,2025-10-03,Bournemouth,Fulham,3:1
+GB1,2025,7. Matchday,2025-10-05,Brentford,Man City,0:1
+GB1,2025,7. Matchday,2025-10-04,Chelsea,Liverpool,2:1
+GB1,2025,7. Matchday,2025-10-05,Everton,Crystal Palace,2:1
+GB1,2025,7. Matchday,2025-10-04,Leeds United,Tottenham,1:2
+GB1,2025,7. Matchday,2025-10-04,Man Utd,Sunderland,2:0
+GB1,2025,7. Matchday,2025-10-05,Newcastle,Nottingham Forest,2:0
+GB1,2025,7. Matchday,2025-10-05,Wolves,Brighton,1:1
+GB1,2025,8. Matchday,2025-10-18,Brighton,Newcastle,2:1
+GB1,2025,8. Matchday,2025-10-18,Burnley,Leeds United,2:0
+GB1,2025,8. Matchday,2025-10-18,Crystal Palace,Bournemouth,3:3
+GB1,2025,8. Matchday,2025-10-18,Fulham,Arsenal,0:1
+GB1,2025,8. Matchday,2025-10-19,Liverpool,Man Utd,1:2
+GB1,2025,8. Matchday,2025-10-18,Man City,Everton,2:0
+GB1,2025,8. Matchday,2025-10-18,Nottingham Forest,Chelsea,0:3
+GB1,2025,8. Matchday,2025-10-18,Sunderland,Wolves,2:0
+GB1,2025,8. Matchday,2025-10-19,Tottenham,Aston Villa,1:2
+GB1,2025,8. Matchday,2025-10-20,West Ham,Brentford,0:2
+GB1,2025,9. Matchday,2025-10-26,Arsenal,Crystal Palace,1:0
+GB1,2025,9. Matchday,2025-10-26,Aston Villa,Man City,1:0
+GB1,2025,9. Matchday,2025-10-26,Bournemouth,Nottingham Forest,2:0
+GB1,2025,9. Matchday,2025-10-25,Brentford,Liverpool,3:2
+GB1,2025,9. Matchday,2025-10-25,Chelsea,Sunderland,1:2
+GB1,2025,9. Matchday,2025-10-26,Everton,Tottenham,0:3
+GB1,2025,9. Matchday,2025-10-24,Leeds United,West Ham,2:1
+GB1,2025,9. Matchday,2025-10-25,Man Utd,Brighton,4:2
+GB1,2025,9. Matchday,2025-10-25,Newcastle,Fulham,2:1
+GB1,2025,9. Matchday,2025-10-26,Wolves,Burnley,2:3
+GB1,2025,10. Matchday,2025-11-01,Brighton,Leeds United,3:0
+GB1,2025,10. Matchday,2025-11-01,Burnley,Arsenal,0:2
+GB1,2025,10. Matchday,2025-11-01,Crystal Palace,Brentford,2:0
+GB1,2025,10. Matchday,2025-11-01,Fulham,Wolves,3:0
+GB1,2025,10. Matchday,2025-11-01,Liverpool,Aston Villa,2:0
+GB1,2025,10. Matchday,2025-11-02,Man City,Bournemouth,3:1
+GB1,2025,10. Matchday,2025-11-01,Nottingham Forest,Man Utd,2:2
+GB1,2025,10. Matchday,2025-11-03,Sunderland,Everton,1:1
+GB1,2025,10. Matchday,2025-11-01,Tottenham,Chelsea,0:1
+GB1,2025,10. Matchday,2025-11-02,West Ham,Newcastle,3:1
+GB1,2025,11. Matchday,2025-11-09,Aston Villa,Bournemouth,4:0
+GB1,2025,11. Matchday,2025-11-09,Brentford,Newcastle,3:1
+GB1,2025,11. Matchday,2025-11-08,Chelsea,Wolves,3:0
+GB1,2025,11. Matchday,2025-11-09,Crystal Palace,Brighton,0:0
+GB1,2025,11. Matchday,2025-11-08,Everton,Fulham,2:0
+GB1,2025,11. Matchday,2025-11-09,Man City,Liverpool,3:0
+GB1,2025,11. Matchday,2025-11-09,Nottingham Forest,Leeds United,3:1
+GB1,2025,11. Matchday,2025-11-08,Sunderland,Arsenal,2:2
+GB1,2025,11. Matchday,2025-11-08,Tottenham,Man Utd,2:2
+GB1,2025,11. Matchday,2025-11-08,West Ham,Burnley,3:2
+GB1,2025,12. Matchday,2025-11-23,Arsenal,Tottenham,4:1
+GB1,2025,12. Matchday,2025-11-22,Bournemouth,West Ham,2:2
+GB1,2025,12. Matchday,2025-11-22,Brighton,Brentford,2:1
+GB1,2025,12. Matchday,2025-11-22,Burnley,Chelsea,0:2
+GB1,2025,12. Matchday,2025-11-22,Fulham,Sunderland,1:0
+GB1,2025,12. Matchday,2025-11-23,Leeds United,Aston Villa,1:2
+GB1,2025,12. Matchday,2025-11-22,Liverpool,Nottingham Forest,0:3
+GB1,2025,12. Matchday,2025-11-24,Man Utd,Everton,0:1
+GB1,2025,12. Matchday,2025-11-22,Newcastle,Man City,2:1
+GB1,2025,12. Matchday,2025-11-22,Wolves,Crystal Palace,0:2
+GB1,2025,13. Matchday,2025-11-30,Aston Villa,Wolves,1:0
+GB1,2025,13. Matchday,2025-11-29,Brentford,Burnley,3:1
+GB1,2025,13. Matchday,2025-11-30,Chelsea,Arsenal,1:1
+GB1,2025,13. Matchday,2025-11-30,Crystal Palace,Man Utd,1:2
+GB1,2025,13. Matchday,2025-11-29,Everton,Newcastle,1:4
+GB1,2025,13. Matchday,2025-11-29,Man City,Leeds United,3:2
+GB1,2025,13. Matchday,2025-11-30,Nottingham Forest,Brighton,0:2
+GB1,2025,13. Matchday,2025-11-29,Sunderland,Bournemouth,3:2
+GB1,2025,13. Matchday,2025-11-29,Tottenham,Fulham,1:2
+GB1,2025,13. Matchday,2025-11-30,West Ham,Liverpool,0:2
+GB1,2025,14. Matchday,2025-12-03,Arsenal,Brentford,2:0
+GB1,2025,14. Matchday,2025-12-02,Bournemouth,Everton,0:1
+GB1,2025,14. Matchday,2025-12-03,Brighton,Aston Villa,3:4
+GB1,2025,14. Matchday,2025-12-03,Burnley,Crystal Palace,0:1
+GB1,2025,14. Matchday,2025-12-02,Fulham,Man City,4:5
+GB1,2025,14. Matchday,2025-12-03,Leeds United,Chelsea,3:1
+GB1,2025,14. Matchday,2025-12-03,Liverpool,Sunderland,1:1
+GB1,2025,14. Matchday,2025-12-04,Man Utd,West Ham,1:1
+GB1,2025,14. Matchday,2025-12-02,Newcastle,Tottenham,2:2
+GB1,2025,14. Matchday,2025-12-03,Wolves,Nottingham Forest,0:1
+GB1,2025,15. Matchday,2025-12-06,Aston Villa,Arsenal,2:1
+GB1,2025,15. Matchday,2025-12-06,Bournemouth,Chelsea,0:0
+GB1,2025,15. Matchday,2025-12-07,Brighton,West Ham,1:1
+GB1,2025,15. Matchday,2025-12-06,Everton,Nottingham Forest,3:0
+GB1,2025,15. Matchday,2025-12-07,Fulham,Crystal Palace,1:2
+GB1,2025,15. Matchday,2025-12-06,Leeds United,Liverpool,3:3
+GB1,2025,15. Matchday,2025-12-06,Man City,Sunderland,3:0
+GB1,2025,15. Matchday,2025-12-06,Newcastle,Burnley,2:1
+GB1,2025,15. Matchday,2025-12-06,Tottenham,Brentford,2:0
+GB1,2025,15. Matchday,2025-12-08,Wolves,Man Utd,1:4
+GB1,2025,16. Matchday,2025-12-13,Arsenal,Wolves,2:1
+GB1,2025,16. Matchday,2025-12-14,Brentford,Leeds United,1:1
+GB1,2025,16. Matchday,2025-12-13,Burnley,Fulham,2:3
+GB1,2025,16. Matchday,2025-12-13,Chelsea,Everton,2:0
+GB1,2025,16. Matchday,2025-12-14,Crystal Palace,Man City,0:3
+GB1,2025,16. Matchday,2025-12-13,Liverpool,Brighton,2:0
+GB1,2025,16. Matchday,2025-12-15,Man Utd,Bournemouth,4:4
+GB1,2025,16. Matchday,2025-12-14,Nottingham Forest,Tottenham,3:0
+GB1,2025,16. Matchday,2025-12-14,Sunderland,Newcastle,1:0
+GB1,2025,16. Matchday,2025-12-14,West Ham,Aston Villa,2:3
+GB1,2025,17. Matchday,2025-12-21,Aston Villa,Man Utd,2:1
+GB1,2025,17. Matchday,2025-12-20,Bournemouth,Burnley,1:1
+GB1,2025,17. Matchday,2025-12-20,Brighton,Sunderland,0:0
+GB1,2025,17. Matchday,2025-12-20,Everton,Arsenal,0:1
+GB1,2025,17. Matchday,2025-12-22,Fulham,Nottingham Forest,1:0
+GB1,2025,17. Matchday,2025-12-20,Leeds United,Crystal Palace,4:1
+GB1,2025,17. Matchday,2025-12-20,Man City,West Ham,3:0
+GB1,2025,17. Matchday,2025-12-20,Newcastle,Chelsea,2:2
+GB1,2025,17. Matchday,2025-12-20,Tottenham,Liverpool,1:2
+GB1,2025,17. Matchday,2025-12-20,Wolves,Brentford,0:2
+GB1,2025,18. Matchday,2025-12-27,Arsenal,Brighton,2:1
+GB1,2025,18. Matchday,2025-12-27,Brentford,Bournemouth,4:1
+GB1,2025,18. Matchday,2025-12-27,Burnley,Everton,0:0
+GB1,2025,18. Matchday,2025-12-27,Chelsea,Aston Villa,1:2
+GB1,2025,18. Matchday,2025-12-28,Crystal Palace,Tottenham,0:1
+GB1,2025,18. Matchday,2025-12-27,Liverpool,Wolves,2:1
+GB1,2025,18. Matchday,2025-12-26,Man Utd,Newcastle,1:0
+GB1,2025,18. Matchday,2025-12-27,Nottingham Forest,Man City,1:2
+GB1,2025,18. Matchday,2025-12-28,Sunderland,Leeds United,1:1
+GB1,2025,18. Matchday,2025-12-27,West Ham,Fulham,0:1
+GB1,2025,19. Matchday,2025-12-30,Arsenal,Aston Villa,4:1
+GB1,2025,19. Matchday,2026-01-01,Brentford,Tottenham,0:0
+GB1,2025,19. Matchday,2025-12-30,Burnley,Newcastle,1:3
+GB1,2025,19. Matchday,2025-12-30,Chelsea,Bournemouth,2:2
+GB1,2025,19. Matchday,2026-01-01,Crystal Palace,Fulham,1:1
+GB1,2025,19. Matchday,2026-01-01,Liverpool,Leeds United,0:0
+GB1,2025,19. Matchday,2025-12-30,Man Utd,Wolves,1:1
+GB1,2025,19. Matchday,2025-12-30,Nottingham Forest,Everton,0:2
+GB1,2025,19. Matchday,2026-01-01,Sunderland,Man City,0:0
+GB1,2025,19. Matchday,2025-12-30,West Ham,Brighton,2:2
+GB1,2025,20. Matchday,2026-01-03,Aston Villa,Nottingham Forest,3:1
+GB1,2025,20. Matchday,2026-01-03,Bournemouth,Arsenal,2:3
+GB1,2025,20. Matchday,2026-01-03,Brighton,Burnley,2:0
+GB1,2025,20. Matchday,2026-01-04,Everton,Brentford,2:4
+GB1,2025,20. Matchday,2026-01-04,Fulham,Liverpool,2:2
+GB1,2025,20. Matchday,2026-01-04,Leeds United,Man Utd,1:1
+GB1,2025,20. Matchday,2026-01-04,Man City,Chelsea,1:1
+GB1,2025,20. Matchday,2026-01-04,Newcastle,Crystal Palace,2:0
+GB1,2025,20. Matchday,2026-01-04,Tottenham,Sunderland,1:1
+GB1,2025,20. Matchday,2026-01-03,Wolves,West Ham,3:0
+GB1,2025,21. Matchday,2026-01-08,Arsenal,Liverpool,0:0
+GB1,2025,21. Matchday,2026-01-07,Bournemouth,Tottenham,3:2
+GB1,2025,21. Matchday,2026-01-07,Brentford,Sunderland,3:0
+GB1,2025,21. Matchday,2026-01-07,Burnley,Man Utd,2:2
+GB1,2025,21. Matchday,2026-01-07,Crystal Palace,Aston Villa,0:0
+GB1,2025,21. Matchday,2026-01-07,Everton,Wolves,1:1
+GB1,2025,21. Matchday,2026-01-07,Fulham,Chelsea,2:1
+GB1,2025,21. Matchday,2026-01-07,Man City,Brighton,1:1
+GB1,2025,21. Matchday,2026-01-07,Newcastle,Leeds United,4:3
+GB1,2025,21. Matchday,2026-01-06,West Ham,Nottingham Forest,1:2
+GB1,2025,22. Matchday,2026-01-18,Aston Villa,Everton,0:1
+GB1,2025,22. Matchday,2026-01-19,Brighton,Bournemouth,1:1
+GB1,2025,22. Matchday,2026-01-17,Chelsea,Brentford,2:0
+GB1,2025,22. Matchday,2026-01-17,Leeds United,Fulham,1:0
+GB1,2025,22. Matchday,2026-01-17,Liverpool,Burnley,1:1
+GB1,2025,22. Matchday,2026-01-17,Man Utd,Man City,2:0
+GB1,2025,22. Matchday,2026-01-17,Nottingham Forest,Arsenal,0:0
+GB1,2025,22. Matchday,2026-01-17,Sunderland,Crystal Palace,2:1
+GB1,2025,22. Matchday,2026-01-17,Tottenham,West Ham,1:2
+GB1,2025,22. Matchday,2026-01-18,Wolves,Newcastle,0:0
+GB1,2025,23. Matchday,2026-01-25,Arsenal,Man Utd,2:3
+GB1,2025,23. Matchday,2026-01-24,Bournemouth,Liverpool,3:2
+GB1,2025,23. Matchday,2026-01-25,Brentford,Nottingham Forest,0:2
+GB1,2025,23. Matchday,2026-01-24,Burnley,Tottenham,2:2
+GB1,2025,23. Matchday,2026-01-25,Crystal Palace,Chelsea,1:3
+GB1,2025,23. Matchday,2026-01-26,Everton,Leeds United,1:1
+GB1,2025,23. Matchday,2026-01-24,Fulham,Brighton,2:1
+GB1,2025,23. Matchday,2026-01-24,Man City,Wolves,2:0
+GB1,2025,23. Matchday,2026-01-25,Newcastle,Aston Villa,0:2
+GB1,2025,23. Matchday,2026-01-24,West Ham,Sunderland,3:1
+GB1,2025,24. Matchday,2026-02-01,Aston Villa,Brentford,0:1
+GB1,2025,24. Matchday,2026-01-31,Brighton,Everton,1:1
+GB1,2025,24. Matchday,2026-01-31,Chelsea,West Ham,3:2
+GB1,2025,24. Matchday,2026-01-31,Leeds United,Arsenal,0:4
+GB1,2025,24. Matchday,2026-01-31,Liverpool,Newcastle,4:1
+GB1,2025,24. Matchday,2026-02-01,Man Utd,Fulham,3:2
+GB1,2025,24. Matchday,2026-02-01,Nottingham Forest,Crystal Palace,1:1
+GB1,2025,24. Matchday,2026-02-02,Sunderland,Burnley,3:0
+GB1,2025,24. Matchday,2026-02-01,Tottenham,Man City,2:2
+GB1,2025,24. Matchday,2026-01-31,Wolves,Bournemouth,0:2
+GB1,2025,25. Matchday,2026-02-07,Arsenal,Sunderland,3:0
+GB1,2025,25. Matchday,2026-02-07,Bournemouth,Aston Villa,1:1
+GB1,2025,25. Matchday,2026-02-08,Brighton,Crystal Palace,0:1
+GB1,2025,25. Matchday,2026-02-07,Burnley,West Ham,0:2
+GB1,2025,25. Matchday,2026-02-07,Fulham,Everton,1:2
+GB1,2025,25. Matchday,2026-02-06,Leeds United,Nottingham Forest,3:1
+GB1,2025,25. Matchday,2026-02-08,Liverpool,Man City,1:2
+GB1,2025,25. Matchday,2026-02-07,Man Utd,Tottenham,2:0
+GB1,2025,25. Matchday,2026-02-07,Newcastle,Brentford,2:3
+GB1,2025,25. Matchday,2026-02-07,Wolves,Chelsea,1:3
+GB1,2025,26. Matchday,2026-02-11,Aston Villa,Brighton,1:0
+GB1,2025,26. Matchday,2026-02-12,Brentford,Arsenal,1:1
+GB1,2025,26. Matchday,2026-02-10,Chelsea,Leeds United,2:2
+GB1,2025,26. Matchday,2026-02-11,Crystal Palace,Burnley,2:3
+GB1,2025,26. Matchday,2026-02-10,Everton,Bournemouth,1:2
+GB1,2025,26. Matchday,2026-02-11,Man City,Fulham,3:0
+GB1,2025,26. Matchday,2026-02-11,Nottingham Forest,Wolves,0:0
+GB1,2025,26. Matchday,2026-02-11,Sunderland,Liverpool,0:1
+GB1,2025,26. Matchday,2026-02-10,Tottenham,Newcastle,1:2
+GB1,2025,26. Matchday,2026-02-10,West Ham,Man Utd,1:1
+GB1,2025,27. Matchday,2026-02-21,Aston Villa,Leeds United,1:1
+GB1,2025,27. Matchday,2026-02-21,Brentford,Brighton,0:2
+GB1,2025,27. Matchday,2026-02-21,Chelsea,Burnley,1:1
+GB1,2025,27. Matchday,2026-02-22,Crystal Palace,Wolves,1:0
+GB1,2025,27. Matchday,2026-02-23,Everton,Man Utd,0:1
+GB1,2025,27. Matchday,2026-02-21,Man City,Newcastle,2:1
+GB1,2025,27. Matchday,2026-02-22,Nottingham Forest,Liverpool,0:1
+GB1,2025,27. Matchday,2026-02-22,Sunderland,Fulham,1:3
+GB1,2025,27. Matchday,2026-02-22,Tottenham,Arsenal,1:4
+GB1,2025,27. Matchday,2026-02-21,West Ham,Bournemouth,0:0
+GB1,2025,28. Matchday,2026-03-01,Arsenal,Chelsea,2:1
+GB1,2025,28. Matchday,2026-02-28,Bournemouth,Sunderland,1:1
+GB1,2025,28. Matchday,2026-03-01,Brighton,Nottingham Forest,2:1
+GB1,2025,28. Matchday,2026-02-28,Burnley,Brentford,3:4
+GB1,2025,28. Matchday,2026-03-01,Fulham,Tottenham,2:1
+GB1,2025,28. Matchday,2026-02-28,Leeds United,Man City,0:1
+GB1,2025,28. Matchday,2026-02-28,Liverpool,West Ham,5:2
+GB1,2025,28. Matchday,2026-03-01,Man Utd,Crystal Palace,2:1
+GB1,2025,28. Matchday,2026-02-28,Newcastle,Everton,2:3
+GB1,2025,28. Matchday,2026-02-27,Wolves,Aston Villa,2:0
+GB1,2025,29. Matchday,2026-03-04,Aston Villa,Chelsea,1:4
+GB1,2025,29. Matchday,2026-03-03,Bournemouth,Brentford,0:0
+GB1,2025,29. Matchday,2026-03-04,Brighton,Arsenal,0:1
+GB1,2025,29. Matchday,2026-03-03,Everton,Burnley,2:0
+GB1,2025,29. Matchday,2026-03-04,Fulham,West Ham,0:1
+GB1,2025,29. Matchday,2026-03-03,Leeds United,Sunderland,0:1
+GB1,2025,29. Matchday,2026-03-04,Man City,Nottingham Forest,2:2
+GB1,2025,29. Matchday,2026-03-04,Newcastle,Man Utd,2:1
+GB1,2025,29. Matchday,2026-03-05,Tottenham,Crystal Palace,1:3
+GB1,2025,29. Matchday,2026-03-03,Wolves,Liverpool,2:1
+GB1,2025,30. Matchday,2026-03-14,Arsenal,Everton,2:0
+GB1,2025,30. Matchday,2026-03-16,Brentford,Wolves,2:2
+GB1,2025,30. Matchday,2026-03-14,Burnley,Bournemouth,0:0
+GB1,2025,30. Matchday,2026-03-14,Chelsea,Newcastle,0:1
+GB1,2025,30. Matchday,2026-03-15,Crystal Palace,Leeds United,0:0
+GB1,2025,30. Matchday,2026-03-15,Liverpool,Tottenham,1:1
+GB1,2025,30. Matchday,2026-03-15,Man Utd,Aston Villa,3:1
+GB1,2025,30. Matchday,2026-03-15,Nottingham Forest,Fulham,0:0
+GB1,2025,30. Matchday,2026-03-14,Sunderland,Brighton,0:1
+GB1,2025,30. Matchday,2026-03-14,West Ham,Man City,1:1
+GB1,2025,31. Matchday,2026-03-22,Aston Villa,West Ham,2:0
+GB1,2025,31. Matchday,2026-03-20,Bournemouth,Man Utd,2:2
+GB1,2025,31. Matchday,2026-03-21,Brighton,Liverpool,2:1
+GB1,2025,31. Matchday,2026-03-21,Everton,Chelsea,3:0
+GB1,2025,31. Matchday,2026-03-21,Fulham,Burnley,3:1
+GB1,2025,31. Matchday,2026-03-21,Leeds United,Brentford,0:0
+GB1,2025,31. Matchday,2026-05-13,Man City,Crystal Palace,3:0
+GB1,2025,31. Matchday,2026-03-22,Newcastle,Sunderland,1:2
+GB1,2025,31. Matchday,2026-03-22,Tottenham,Nottingham Forest,0:3
+GB1,2025,31. Matchday,2026-02-18,Wolves,Arsenal,2:2
+GB1,2025,32. Matchday,2026-04-11,Arsenal,Bournemouth,1:2
+GB1,2025,32. Matchday,2026-04-11,Brentford,Everton,2:2
+GB1,2025,32. Matchday,2026-04-11,Burnley,Brighton,0:2
+GB1,2025,32. Matchday,2026-04-12,Chelsea,Man City,0:3
+GB1,2025,32. Matchday,2026-04-12,Crystal Palace,Newcastle,2:1
+GB1,2025,32. Matchday,2026-04-11,Liverpool,Fulham,2:0
+GB1,2025,32. Matchday,2026-04-13,Man Utd,Leeds United,1:2
+GB1,2025,32. Matchday,2026-04-12,Nottingham Forest,Aston Villa,1:1
+GB1,2025,32. Matchday,2026-04-12,Sunderland,Tottenham,1:0
+GB1,2025,32. Matchday,2026-04-10,West Ham,Wolves,4:0
+GB1,2025,33. Matchday,2026-04-19,Aston Villa,Sunderland,4:3
+GB1,2025,33. Matchday,2026-04-18,Brentford,Fulham,0:0
+GB1,2025,33. Matchday,2026-04-18,Chelsea,Man Utd,0:1
+GB1,2025,33. Matchday,2026-04-20,Crystal Palace,West Ham,0:0
+GB1,2025,33. Matchday,2026-04-19,Everton,Liverpool,1:2
+GB1,2025,33. Matchday,2026-04-18,Leeds United,Wolves,3:0
+GB1,2025,33. Matchday,2026-04-19,Man City,Arsenal,2:1
+GB1,2025,33. Matchday,2026-04-18,Newcastle,Bournemouth,1:2
+GB1,2025,33. Matchday,2026-04-19,Nottingham Forest,Burnley,4:1
+GB1,2025,33. Matchday,2026-04-18,Tottenham,Brighton,2:2
+GB1,2025,34. Matchday,2026-04-25,Arsenal,Newcastle,1:0
+GB1,2025,34. Matchday,2026-04-22,Bournemouth,Leeds United,2:2
+GB1,2025,34. Matchday,2026-04-21,Brighton,Chelsea,3:0
+GB1,2025,34. Matchday,2026-04-22,Burnley,Man City,0:1
+GB1,2025,34. Matchday,2026-04-25,Fulham,Aston Villa,1:0
+GB1,2025,34. Matchday,2026-04-25,Liverpool,Crystal Palace,3:1
+GB1,2025,34. Matchday,2026-04-27,Man Utd,Brentford,2:1
+GB1,2025,34. Matchday,2026-04-24,Sunderland,Nottingham Forest,0:5
+GB1,2025,34. Matchday,2026-04-25,West Ham,Everton,2:1
+GB1,2025,34. Matchday,2026-04-25,Wolves,Tottenham,0:1
+GB1,2025,35. Matchday,2026-05-02,Arsenal,Fulham,3:0
+GB1,2025,35. Matchday,2026-05-03,Aston Villa,Tottenham,1:2
+GB1,2025,35. Matchday,2026-05-03,Bournemouth,Crystal Palace,3:0
+GB1,2025,35. Matchday,2026-05-02,Brentford,West Ham,3:0
+GB1,2025,35. Matchday,2026-05-04,Chelsea,Nottingham Forest,1:3
+GB1,2025,35. Matchday,2026-05-04,Everton,Man City,3:3
+GB1,2025,35. Matchday,2026-05-01,Leeds United,Burnley,3:1
+GB1,2025,35. Matchday,2026-05-03,Man Utd,Liverpool,3:2
+GB1,2025,35. Matchday,2026-05-02,Newcastle,Brighton,3:1
+GB1,2025,35. Matchday,2026-05-02,Wolves,Sunderland,1:1
+GB1,2025,36. Matchday,2026-05-09,Brighton,Wolves,3:0
+GB1,2025,36. Matchday,2026-05-10,Burnley,Aston Villa,2:2
+GB1,2025,36. Matchday,2026-05-10,Crystal Palace,Everton,2:2
+GB1,2025,36. Matchday,2026-05-09,Fulham,Bournemouth,0:1
+GB1,2025,36. Matchday,2026-05-09,Liverpool,Chelsea,1:1
+GB1,2025,36. Matchday,2026-05-09,Man City,Brentford,3:0
+GB1,2025,36. Matchday,2026-05-10,Nottingham Forest,Newcastle,1:1
+GB1,2025,36. Matchday,2026-05-09,Sunderland,Man Utd,0:0
+GB1,2025,36. Matchday,2026-05-11,Tottenham,Leeds United,1:1
+GB1,2025,36. Matchday,2026-05-10,West Ham,Arsenal,0:1
+GB1,2025,37. Matchday,2026-05-18,Arsenal,Burnley,1:0
+GB1,2025,37. Matchday,2026-05-15,Aston Villa,Liverpool,4:2
+GB1,2025,37. Matchday,2026-05-17,Brentford,Crystal Palace,2:2
+GB1,2025,37. Matchday,2026-05-17,Everton,Sunderland,1:3
+GB1,2025,37. Matchday,2026-05-17,Leeds United,Brighton,1:0
+GB1,2025,37. Matchday,2026-05-17,Man Utd,Nottingham Forest,3:2
+GB1,2025,37. Matchday,2026-05-17,Newcastle,West Ham,3:1
+GB1,2025,37. Matchday,2026-05-17,Wolves,Fulham,1:1
+L1,2025,1. Matchday,2025-08-22,Bayern Munich,RB Leipzig,6:0
+L1,2025,1. Matchday,2025-08-23,Eintracht Frankfurt,Werder Bremen,4:1
+L1,2025,1. Matchday,2025-08-23,Bayer Leverkusen,Hoffenheim,1:2
+L1,2025,1. Matchday,2025-08-23,Freiburg,Augsburg,1:3
+L1,2025,1. Matchday,2025-08-24,Mainz,Koln,0:1
+L1,2025,1. Matchday,2025-08-24,Gladbach,Hamburg,0:0
+L1,2025,1. Matchday,2025-08-23,Union Berlin,Stuttgart,2:1
+L1,2025,1. Matchday,2025-08-23,St Pauli,Dortmund,3:3
+L1,2025,1. Matchday,2025-08-23,Heidenheim,Wolfsburg,1:3
+L1,2025,2. Matchday,2025-08-31,Dortmund,Union Berlin,3:0
+L1,2025,2. Matchday,2025-08-30,RB Leipzig,Heidenheim,2:0
+L1,2025,2. Matchday,2025-08-30,Werder Bremen,Bayer Leverkusen,3:3
+L1,2025,2. Matchday,2025-08-30,Stuttgart,Gladbach,1:0
+L1,2025,2. Matchday,2025-08-31,Wolfsburg,Mainz,1:1
+L1,2025,2. Matchday,2025-08-30,Augsburg,Bayern Munich,2:3
+L1,2025,2. Matchday,2025-08-30,Hoffenheim,Eintracht Frankfurt,1:3
+L1,2025,2. Matchday,2025-08-31,Koln,Freiburg,4:1
+L1,2025,2. Matchday,2025-08-29,Hamburg,St Pauli,0:2
+L1,2025,3. Matchday,2025-09-13,Bayern Munich,Hamburg,5:0
+L1,2025,3. Matchday,2025-09-12,Bayer Leverkusen,Eintracht Frankfurt,3:1
+L1,2025,3. Matchday,2025-09-13,Freiburg,Stuttgart,3:1
+L1,2025,3. Matchday,2025-09-13,Mainz,RB Leipzig,0:1
+L1,2025,3. Matchday,2025-09-14,Gladbach,Werder Bremen,0:4
+L1,2025,3. Matchday,2025-09-13,Wolfsburg,Koln,3:3
+L1,2025,3. Matchday,2025-09-13,Union Berlin,Hoffenheim,2:4
+L1,2025,3. Matchday,2025-09-14,St Pauli,Augsburg,2:1
+L1,2025,3. Matchday,2025-09-13,Heidenheim,Dortmund,0:2
+L1,2025,4. Matchday,2025-09-21,Bayer Leverkusen,Gladbach,1:1
+L1,2025,4. Matchday,2025-09-21,Eintracht Frankfurt,Union Berlin,3:4
+L1,2025,4. Matchday,2025-09-21,Dortmund,Wolfsburg,1:0
+L1,2025,4. Matchday,2025-09-20,RB Leipzig,Koln,3:1
+L1,2025,4. Matchday,2025-09-20,Werder Bremen,Freiburg,0:3
+L1,2025,4. Matchday,2025-09-19,Stuttgart,St Pauli,2:0
+L1,2025,4. Matchday,2025-09-20,Augsburg,Mainz,1:4
+L1,2025,4. Matchday,2025-09-20,Hoffenheim,Bayern Munich,1:4
+L1,2025,4. Matchday,2025-09-20,Hamburg,Heidenheim,2:1
+L1,2025,5. Matchday,2025-09-26,Bayern Munich,Werder Bremen,4:0
+L1,2025,5. Matchday,2025-09-28,Freiburg,Hoffenheim,1:1
+L1,2025,5. Matchday,2025-09-27,Mainz,Dortmund,0:2
+L1,2025,5. Matchday,2025-09-27,Gladbach,Eintracht Frankfurt,4:6
+L1,2025,5. Matchday,2025-09-27,Wolfsburg,RB Leipzig,0:1
+L1,2025,5. Matchday,2025-09-28,Union Berlin,Hamburg,0:0
+L1,2025,5. Matchday,2025-09-27,St Pauli,Bayer Leverkusen,1:2
+L1,2025,5. Matchday,2025-09-27,Heidenheim,Augsburg,2:1
+L1,2025,5. Matchday,2025-09-28,Koln,Stuttgart,1:2
+L1,2025,6. Matchday,2025-10-04,Bayer Leverkusen,Union Berlin,2:0
+L1,2025,6. Matchday,2025-10-04,Eintracht Frankfurt,Bayern Munich,0:3
+L1,2025,6. Matchday,2025-10-04,Dortmund,RB Leipzig,1:1
+L1,2025,6. Matchday,2025-10-04,Werder Bremen,St Pauli,1:0
+L1,2025,6. Matchday,2025-10-05,Stuttgart,Heidenheim,1:0
+L1,2025,6. Matchday,2025-10-05,Gladbach,Freiburg,0:0
+L1,2025,6. Matchday,2025-10-04,Augsburg,Wolfsburg,3:1
+L1,2025,6. Matchday,2025-10-03,Hoffenheim,Koln,0:1
+L1,2025,6. Matchday,2025-10-05,Hamburg,Mainz,4:0
+L1,2025,7. Matchday,2025-10-18,Bayern Munich,Dortmund,2:1
+L1,2025,7. Matchday,2025-10-19,Freiburg,Eintracht Frankfurt,2:2
+L1,2025,7. Matchday,2025-10-18,Mainz,Bayer Leverkusen,3:4
+L1,2025,7. Matchday,2025-10-18,RB Leipzig,Hamburg,2:1
+L1,2025,7. Matchday,2025-10-18,Wolfsburg,Stuttgart,0:3
+L1,2025,7. Matchday,2025-10-17,Union Berlin,Gladbach,3:1
+L1,2025,7. Matchday,2025-10-19,St Pauli,Hoffenheim,0:3
+L1,2025,7. Matchday,2025-10-18,Heidenheim,Werder Bremen,2:2
+L1,2025,7. Matchday,2025-10-18,Koln,Augsburg,1:1
+L1,2025,8. Matchday,2025-10-26,Bayer Leverkusen,Freiburg,2:0
+L1,2025,8. Matchday,2025-10-25,Eintracht Frankfurt,St Pauli,2:0
+L1,2025,8. Matchday,2025-10-25,Dortmund,Koln,1:0
+L1,2025,8. Matchday,2025-10-24,Werder Bremen,Union Berlin,1:0
+L1,2025,8. Matchday,2025-10-26,Stuttgart,Mainz,2:1
+L1,2025,8. Matchday,2025-10-25,Gladbach,Bayern Munich,0:3
+L1,2025,8. Matchday,2025-10-25,Augsburg,RB Leipzig,0:6
+L1,2025,8. Matchday,2025-10-25,Hoffenheim,Heidenheim,3:1
+L1,2025,8. Matchday,2025-10-25,Hamburg,Wolfsburg,0:1
+L1,2025,9. Matchday,2025-11-01,Bayern Munich,Bayer Leverkusen,3:0
+L1,2025,9. Matchday,2025-11-01,Mainz,Werder Bremen,1:1
+L1,2025,9. Matchday,2025-11-01,RB Leipzig,Stuttgart,3:1
+L1,2025,9. Matchday,2025-11-02,Wolfsburg,Hoffenheim,2:3
+L1,2025,9. Matchday,2025-10-31,Augsburg,Dortmund,0:1
+L1,2025,9. Matchday,2025-11-01,Union Berlin,Freiburg,0:0
+L1,2025,9. Matchday,2025-11-01,St Pauli,Gladbach,0:4
+L1,2025,9. Matchday,2025-11-01,Heidenheim,Eintracht Frankfurt,1:1
+L1,2025,9. Matchday,2025-11-02,Koln,Hamburg,4:1
+L1,2025,10. Matchday,2025-11-08,Bayer Leverkusen,Heidenheim,6:0
+L1,2025,10. Matchday,2025-11-09,Eintracht Frankfurt,Mainz,1:0
+L1,2025,10. Matchday,2025-11-09,Freiburg,St Pauli,2:1
+L1,2025,10. Matchday,2025-11-07,Werder Bremen,Wolfsburg,2:1
+L1,2025,10. Matchday,2025-11-09,Stuttgart,Augsburg,3:2
+L1,2025,10. Matchday,2025-11-08,Gladbach,Koln,3:1
+L1,2025,10. Matchday,2025-11-08,Union Berlin,Bayern Munich,2:2
+L1,2025,10. Matchday,2025-11-08,Hoffenheim,RB Leipzig,3:1
+L1,2025,10. Matchday,2025-11-08,Hamburg,Dortmund,1:1
+L1,2025,11. Matchday,2025-11-22,Bayern Munich,Freiburg,6:2
+L1,2025,11. Matchday,2025-11-22,Dortmund,Stuttgart,3:3
+L1,2025,11. Matchday,2025-11-21,Mainz,Hoffenheim,1:1
+L1,2025,11. Matchday,2025-11-23,RB Leipzig,Werder Bremen,2:0
+L1,2025,11. Matchday,2025-11-22,Wolfsburg,Bayer Leverkusen,1:3
+L1,2025,11. Matchday,2025-11-22,Augsburg,Hamburg,1:0
+L1,2025,11. Matchday,2025-11-23,St Pauli,Union Berlin,0:1
+L1,2025,11. Matchday,2025-11-22,Heidenheim,Gladbach,0:3
+L1,2025,11. Matchday,2025-11-22,Koln,Eintracht Frankfurt,3:4
+L1,2025,12. Matchday,2025-11-29,Bayern Munich,St Pauli,3:1
+L1,2025,12. Matchday,2025-11-29,Bayer Leverkusen,Dortmund,1:2
+L1,2025,12. Matchday,2025-11-30,Eintracht Frankfurt,Wolfsburg,1:1
+L1,2025,12. Matchday,2025-11-30,Freiburg,Mainz,4:0
+L1,2025,12. Matchday,2025-11-29,Werder Bremen,Koln,1:1
+L1,2025,12. Matchday,2025-11-28,Gladbach,RB Leipzig,0:0
+L1,2025,12. Matchday,2025-11-29,Union Berlin,Heidenheim,1:2
+L1,2025,12. Matchday,2025-11-29,Hoffenheim,Augsburg,3:0
+L1,2025,12. Matchday,2025-11-30,Hamburg,Stuttgart,2:1
+L1,2025,13. Matchday,2025-12-07,Dortmund,Hoffenheim,2:0
+L1,2025,13. Matchday,2025-12-05,Mainz,Gladbach,0:1
+L1,2025,13. Matchday,2025-12-06,RB Leipzig,Eintracht Frankfurt,6:0
+L1,2025,13. Matchday,2025-12-06,Stuttgart,Bayern Munich,0:5
+L1,2025,13. Matchday,2025-12-06,Wolfsburg,Union Berlin,3:1
+L1,2025,13. Matchday,2025-12-06,Augsburg,Bayer Leverkusen,2:0
+L1,2025,13. Matchday,2025-12-06,Heidenheim,Freiburg,2:1
+L1,2025,13. Matchday,2025-12-06,Koln,St Pauli,1:1
+L1,2025,13. Matchday,2025-12-07,Hamburg,Werder Bremen,3:2
+L1,2025,14. Matchday,2025-12-14,Bayern Munich,Mainz,2:2
+L1,2025,14. Matchday,2025-12-13,Bayer Leverkusen,Koln,2:0
+L1,2025,14. Matchday,2025-12-13,Eintracht Frankfurt,Augsburg,1:0
+L1,2025,14. Matchday,2025-12-14,Freiburg,Dortmund,1:1
+L1,2025,14. Matchday,2025-12-14,Werder Bremen,Stuttgart,0:4
+L1,2025,14. Matchday,2025-12-13,Gladbach,Wolfsburg,1:3
+L1,2025,14. Matchday,2025-12-12,Union Berlin,RB Leipzig,3:1
+L1,2025,14. Matchday,2025-12-13,St Pauli,Heidenheim,2:1
+L1,2025,14. Matchday,2025-12-13,Hoffenheim,Hamburg,4:1
+L1,2025,15. Matchday,2025-12-19,Dortmund,Gladbach,2:0
+L1,2025,15. Matchday,2025-12-21,Mainz,St Pauli,0:0
+L1,2025,15. Matchday,2025-12-20,RB Leipzig,Bayer Leverkusen,1:3
+L1,2025,15. Matchday,2025-12-20,Stuttgart,Hoffenheim,0:0
+L1,2025,15. Matchday,2025-12-20,Wolfsburg,Freiburg,3:4
+L1,2025,15. Matchday,2025-12-20,Augsburg,Werder Bremen,0:0
+L1,2025,15. Matchday,2025-12-21,Heidenheim,Bayern Munich,0:4
+L1,2025,15. Matchday,2025-12-20,Koln,Union Berlin,0:1
+L1,2025,15. Matchday,2025-12-20,Hamburg,Eintracht Frankfurt,1:1
+L1,2025,16. Matchday,2026-01-11,Bayern Munich,Wolfsburg,8:1
+L1,2025,16. Matchday,2026-01-10,Bayer Leverkusen,Stuttgart,1:4
+L1,2025,16. Matchday,2026-01-09,Eintracht Frankfurt,Dortmund,3:3
+L1,2025,16. Matchday,2026-01-10,Freiburg,Hamburg,2:1
+L1,2025,16. Matchday,2026-01-27,Werder Bremen,Hoffenheim,0:2
+L1,2025,16. Matchday,2026-01-11,Gladbach,Augsburg,4:0
+L1,2025,16. Matchday,2026-01-10,Union Berlin,Mainz,2:2
+L1,2025,16. Matchday,2026-01-27,St Pauli,RB Leipzig,1:1
+L1,2025,16. Matchday,2026-01-10,Heidenheim,Koln,2:2
+L1,2025,17. Matchday,2026-01-13,Dortmund,Werder Bremen,3:0
+L1,2025,17. Matchday,2026-01-13,Mainz,Heidenheim,2:1
+L1,2025,17. Matchday,2026-01-14,RB Leipzig,Freiburg,2:0
+L1,2025,17. Matchday,2026-01-13,Stuttgart,Eintracht Frankfurt,3:2
+L1,2025,17. Matchday,2026-01-14,Wolfsburg,St Pauli,2:1
+L1,2025,17. Matchday,2026-01-15,Augsburg,Union Berlin,1:1
+L1,2025,17. Matchday,2026-01-14,Hoffenheim,Gladbach,5:1
+L1,2025,17. Matchday,2026-01-14,Koln,Bayern Munich,1:3
+L1,2025,17. Matchday,2026-03-04,Hamburg,Bayer Leverkusen,0:1
+L1,2025,18. Matchday,2026-01-17,Dortmund,St Pauli,3:2
+L1,2025,18. Matchday,2026-01-17,RB Leipzig,Bayern Munich,1:5
+L1,2025,18. Matchday,2026-01-16,Werder Bremen,Eintracht Frankfurt,3:3
+L1,2025,18. Matchday,2026-01-18,Stuttgart,Union Berlin,1:1
+L1,2025,18. Matchday,2026-01-17,Wolfsburg,Heidenheim,1:1
+L1,2025,18. Matchday,2026-01-18,Augsburg,Freiburg,2:2
+L1,2025,18. Matchday,2026-01-17,Hoffenheim,Bayer Leverkusen,1:0
+L1,2025,18. Matchday,2026-01-17,Koln,Mainz,2:1
+L1,2025,18. Matchday,2026-01-17,Hamburg,Gladbach,0:0
+L1,2025,19. Matchday,2026-01-24,Bayern Munich,Augsburg,1:2
+L1,2025,19. Matchday,2026-01-24,Bayer Leverkusen,Werder Bremen,1:0
+L1,2025,19. Matchday,2026-01-24,Eintracht Frankfurt,Hoffenheim,1:3
+L1,2025,19. Matchday,2026-01-25,Freiburg,Koln,2:1
+L1,2025,19. Matchday,2026-01-24,Mainz,Wolfsburg,3:1
+L1,2025,19. Matchday,2026-01-25,Gladbach,Stuttgart,0:3
+L1,2025,19. Matchday,2026-01-24,Union Berlin,Dortmund,0:3
+L1,2025,19. Matchday,2026-01-23,St Pauli,Hamburg,0:0
+L1,2025,19. Matchday,2026-01-24,Heidenheim,RB Leipzig,0:3
+L1,2025,20. Matchday,2026-01-31,Eintracht Frankfurt,Bayer Leverkusen,1:3
+L1,2025,20. Matchday,2026-02-01,Dortmund,Heidenheim,3:2
+L1,2025,20. Matchday,2026-01-31,RB Leipzig,Mainz,1:2
+L1,2025,20. Matchday,2026-01-31,Werder Bremen,Gladbach,1:1
+L1,2025,20. Matchday,2026-02-01,Stuttgart,Freiburg,1:0
+L1,2025,20. Matchday,2026-01-31,Augsburg,St Pauli,2:1
+L1,2025,20. Matchday,2026-01-31,Hoffenheim,Union Berlin,3:1
+L1,2025,20. Matchday,2026-01-30,Koln,Wolfsburg,1:0
+L1,2025,20. Matchday,2026-01-31,Hamburg,Bayern Munich,2:2
+L1,2025,21. Matchday,2026-02-08,Bayern Munich,Hoffenheim,5:1
+L1,2025,21. Matchday,2026-02-07,Freiburg,Werder Bremen,1:0
+L1,2025,21. Matchday,2026-02-07,Mainz,Augsburg,2:0
+L1,2025,21. Matchday,2026-02-07,Gladbach,Bayer Leverkusen,1:1
+L1,2025,21. Matchday,2026-02-07,Wolfsburg,Dortmund,1:2
+L1,2025,21. Matchday,2026-02-06,Union Berlin,Eintracht Frankfurt,1:1
+L1,2025,21. Matchday,2026-02-07,St Pauli,Stuttgart,2:1
+L1,2025,21. Matchday,2026-02-07,Heidenheim,Hamburg,0:2
+L1,2025,21. Matchday,2026-02-08,Koln,RB Leipzig,1:2
+L1,2025,22. Matchday,2026-02-14,Bayer Leverkusen,St Pauli,4:0
+L1,2025,22. Matchday,2026-02-14,Eintracht Frankfurt,Gladbach,3:0
+L1,2025,22. Matchday,2026-02-13,Dortmund,Mainz,4:0
+L1,2025,22. Matchday,2026-02-15,RB Leipzig,Wolfsburg,2:2
+L1,2025,22. Matchday,2026-02-14,Werder Bremen,Bayern Munich,0:3
+L1,2025,22. Matchday,2026-02-14,Stuttgart,Koln,3:1
+L1,2025,22. Matchday,2026-02-15,Augsburg,Heidenheim,1:0
+L1,2025,22. Matchday,2026-02-14,Hoffenheim,Freiburg,3:0
+L1,2025,22. Matchday,2026-02-14,Hamburg,Union Berlin,3:2
+L1,2025,23. Matchday,2026-02-21,Bayern Munich,Eintracht Frankfurt,3:2
+L1,2025,23. Matchday,2026-02-22,Freiburg,Gladbach,2:1
+L1,2025,23. Matchday,2026-02-20,Mainz,Hamburg,1:1
+L1,2025,23. Matchday,2026-02-21,RB Leipzig,Dortmund,2:2
+L1,2025,23. Matchday,2026-02-21,Wolfsburg,Augsburg,2:3
+L1,2025,23. Matchday,2026-02-21,Union Berlin,Bayer Leverkusen,1:0
+L1,2025,23. Matchday,2026-02-22,St Pauli,Werder Bremen,2:1
+L1,2025,23. Matchday,2026-02-22,Heidenheim,Stuttgart,3:3
+L1,2025,23. Matchday,2026-02-21,Koln,Hoffenheim,2:2
+L1,2025,24. Matchday,2026-02-28,Bayer Leverkusen,Mainz,1:1
+L1,2025,24. Matchday,2026-03-01,Eintracht Frankfurt,Freiburg,2:0
+L1,2025,24. Matchday,2026-02-28,Dortmund,Bayern Munich,2:3
+L1,2025,24. Matchday,2026-02-28,Werder Bremen,Heidenheim,2:0
+L1,2025,24. Matchday,2026-03-01,Stuttgart,Wolfsburg,4:0
+L1,2025,24. Matchday,2026-02-28,Gladbach,Union Berlin,1:0
+L1,2025,24. Matchday,2026-02-27,Augsburg,Koln,2:0
+L1,2025,24. Matchday,2026-02-28,Hoffenheim,St Pauli,0:1
+L1,2025,24. Matchday,2026-03-01,Hamburg,RB Leipzig,1:2
+L1,2025,25. Matchday,2026-03-06,Bayern Munich,Gladbach,4:1
+L1,2025,25. Matchday,2026-03-07,Freiburg,Bayer Leverkusen,3:3
+L1,2025,25. Matchday,2026-03-07,Mainz,Stuttgart,2:2
+L1,2025,25. Matchday,2026-03-07,RB Leipzig,Augsburg,2:1
+L1,2025,25. Matchday,2026-03-07,Wolfsburg,Hamburg,1:2
+L1,2025,25. Matchday,2026-03-08,Union Berlin,Werder Bremen,1:4
+L1,2025,25. Matchday,2026-03-08,St Pauli,Eintracht Frankfurt,0:0
+L1,2025,25. Matchday,2026-03-07,Heidenheim,Hoffenheim,2:4
+L1,2025,25. Matchday,2026-03-07,Koln,Dortmund,1:2
+L1,2025,26. Matchday,2026-03-14,Bayer Leverkusen,Bayern Munich,1:1
+L1,2025,26. Matchday,2026-03-14,Eintracht Frankfurt,Heidenheim,1:0
+L1,2025,26. Matchday,2026-03-14,Dortmund,Augsburg,2:0
+L1,2025,26. Matchday,2026-03-15,Freiburg,Union Berlin,0:1
+L1,2025,26. Matchday,2026-03-15,Werder Bremen,Mainz,0:2
+L1,2025,26. Matchday,2026-03-15,Stuttgart,RB Leipzig,1:0
+L1,2025,26. Matchday,2026-03-13,Gladbach,St Pauli,2:0
+L1,2025,26. Matchday,2026-03-14,Hoffenheim,Wolfsburg,1:1
+L1,2025,26. Matchday,2026-03-14,Hamburg,Koln,1:1
+L1,2025,27. Matchday,2026-03-21,Bayern Munich,Union Berlin,4:0
+L1,2025,27. Matchday,2026-03-21,Dortmund,Hamburg,3:2
+L1,2025,27. Matchday,2026-03-22,Mainz,Eintracht Frankfurt,2:1
+L1,2025,27. Matchday,2026-03-20,RB Leipzig,Hoffenheim,5:0
+L1,2025,27. Matchday,2026-03-21,Wolfsburg,Werder Bremen,0:1
+L1,2025,27. Matchday,2026-03-22,Augsburg,Stuttgart,2:5
+L1,2025,27. Matchday,2026-03-22,St Pauli,Freiburg,1:2
+L1,2025,27. Matchday,2026-03-21,Heidenheim,Bayer Leverkusen,3:3
+L1,2025,27. Matchday,2026-03-21,Koln,Gladbach,3:3
+L1,2025,28. Matchday,2026-04-04,Bayer Leverkusen,Wolfsburg,6:3
+L1,2025,28. Matchday,2026-04-05,Eintracht Frankfurt,Koln,2:2
+L1,2025,28. Matchday,2026-04-04,Freiburg,Bayern Munich,2:3
+L1,2025,28. Matchday,2026-04-04,Werder Bremen,RB Leipzig,1:2
+L1,2025,28. Matchday,2026-04-04,Stuttgart,Dortmund,0:2
+L1,2025,28. Matchday,2026-04-04,Gladbach,Heidenheim,2:2
+L1,2025,28. Matchday,2026-04-05,Union Berlin,St Pauli,1:1
+L1,2025,28. Matchday,2026-04-04,Hoffenheim,Mainz,1:2
+L1,2025,28. Matchday,2026-04-04,Hamburg,Augsburg,1:1
+L1,2025,29. Matchday,2026-04-11,Dortmund,Bayer Leverkusen,0:1
+L1,2025,29. Matchday,2026-04-12,Mainz,Freiburg,0:1
+L1,2025,29. Matchday,2026-04-11,RB Leipzig,Gladbach,1:0
+L1,2025,29. Matchday,2026-04-12,Stuttgart,Hamburg,4:0
+L1,2025,29. Matchday,2026-04-11,Wolfsburg,Eintracht Frankfurt,1:2
+L1,2025,29. Matchday,2026-04-10,Augsburg,Hoffenheim,2:2
+L1,2025,29. Matchday,2026-04-11,St Pauli,Bayern Munich,0:5
+L1,2025,29. Matchday,2026-04-11,Heidenheim,Union Berlin,3:1
+L1,2025,29. Matchday,2026-04-12,Koln,Werder Bremen,3:1
+L1,2025,30. Matchday,2026-04-19,Bayern Munich,Stuttgart,4:2
+L1,2025,30. Matchday,2026-04-18,Bayer Leverkusen,Augsburg,1:2
+L1,2025,30. Matchday,2026-04-18,Eintracht Frankfurt,RB Leipzig,1:3
+L1,2025,30. Matchday,2026-04-19,Freiburg,Heidenheim,2:1
+L1,2025,30. Matchday,2026-04-18,Werder Bremen,Hamburg,3:1
+L1,2025,30. Matchday,2026-04-19,Gladbach,Mainz,1:1
+L1,2025,30. Matchday,2026-04-18,Union Berlin,Wolfsburg,1:2
+L1,2025,30. Matchday,2026-04-17,St Pauli,Koln,1:1
+L1,2025,30. Matchday,2026-04-18,Hoffenheim,Dortmund,2:1
+L1,2025,31. Matchday,2026-04-26,Dortmund,Freiburg,4:0
+L1,2025,31. Matchday,2026-04-25,Mainz,Bayern Munich,3:4
+L1,2025,31. Matchday,2026-04-24,RB Leipzig,Union Berlin,3:1
+L1,2025,31. Matchday,2026-04-26,Stuttgart,Werder Bremen,1:1
+L1,2025,31. Matchday,2026-04-25,Wolfsburg,Gladbach,0:0
+L1,2025,31. Matchday,2026-04-25,Augsburg,Eintracht Frankfurt,1:1
+L1,2025,31. Matchday,2026-04-25,Heidenheim,St Pauli,2:0
+L1,2025,31. Matchday,2026-04-25,Koln,Bayer Leverkusen,1:2
+L1,2025,31. Matchday,2026-04-25,Hamburg,Hoffenheim,1:2
+L1,2025,32. Matchday,2026-05-02,Bayern Munich,Heidenheim,3:3
+L1,2025,32. Matchday,2026-05-02,Bayer Leverkusen,RB Leipzig,4:1
+L1,2025,32. Matchday,2026-05-02,Eintracht Frankfurt,Hamburg,1:2
+L1,2025,32. Matchday,2026-05-03,Freiburg,Wolfsburg,1:1
+L1,2025,32. Matchday,2026-05-02,Werder Bremen,Augsburg,1:3
+L1,2025,32. Matchday,2026-05-03,Gladbach,Dortmund,1:0
+L1,2025,32. Matchday,2026-05-02,Union Berlin,Koln,2:2
+L1,2025,32. Matchday,2026-05-03,St Pauli,Mainz,1:2
+L1,2025,32. Matchday,2026-05-02,Hoffenheim,Stuttgart,3:3
+L1,2025,33. Matchday,2026-05-08,Dortmund,Eintracht Frankfurt,3:2
+L1,2025,33. Matchday,2026-05-10,Mainz,Union Berlin,1:3
+L1,2025,33. Matchday,2026-05-09,RB Leipzig,St Pauli,2:1
+L1,2025,33. Matchday,2026-05-09,Stuttgart,Bayer Leverkusen,3:1
+L1,2025,33. Matchday,2026-05-09,Wolfsburg,Bayern Munich,0:1
+L1,2025,33. Matchday,2026-05-09,Augsburg,Gladbach,3:1
+L1,2025,33. Matchday,2026-05-09,Hoffenheim,Werder Bremen,1:0
+L1,2025,33. Matchday,2026-05-10,Koln,Heidenheim,1:3
+L1,2025,33. Matchday,2026-05-10,Hamburg,Freiburg,3:2
+L1,2025,34. Matchday,2026-05-16,Bayern Munich,Koln,5:1
+L1,2025,34. Matchday,2026-05-16,Bayer Leverkusen,Hamburg,1:1
+L1,2025,34. Matchday,2026-05-16,Eintracht Frankfurt,Stuttgart,2:2
+L1,2025,34. Matchday,2026-05-16,Freiburg,RB Leipzig,4:1
+L1,2025,34. Matchday,2026-05-16,Werder Bremen,Dortmund,0:2
+L1,2025,34. Matchday,2026-05-16,Gladbach,Hoffenheim,4:0
+L1,2025,34. Matchday,2026-05-16,Union Berlin,Augsburg,4:0
+L1,2025,34. Matchday,2026-05-16,St Pauli,Wolfsburg,1:3
+L1,2025,34. Matchday,2026-05-16,Heidenheim,Mainz,0:2
+FR1,2025,1. Matchday,2025-08-15,Rennes,Marseille,1:0
+FR1,2025,1. Matchday,2025-08-16,Lens,Lyon,0:1
+FR1,2025,1. Matchday,2025-08-16,Nice,Toulouse,0:1
+FR1,2025,1. Matchday,2025-08-17,Auxerre,Lorient,1:0
+FR1,2025,1. Matchday,2025-08-17,Brest,Lille,3:3
+FR1,2025,1. Matchday,2025-08-17,Angers,Paris FC,1:0
+FR1,2025,1. Matchday,2025-08-17,Metz,Strasbourg,0:1
+FR1,2025,1. Matchday,2025-08-16,Monaco,Le Havre,3:1
+FR1,2025,1. Matchday,2025-08-17,Nantes,PSG,0:1
+FR1,2025,2. Matchday,2025-08-23,Marseille,Paris FC,5:2
+FR1,2025,2. Matchday,2025-08-24,Lille,Monaco,1:0
+FR1,2025,2. Matchday,2025-08-24,Le Havre,Lens,1:2
+FR1,2025,2. Matchday,2025-08-24,Lorient,Rennes,4:0
+FR1,2025,2. Matchday,2025-08-23,Nice,Auxerre,3:1
+FR1,2025,2. Matchday,2025-08-24,Toulouse,Brest,2:0
+FR1,2025,2. Matchday,2025-08-23,Lyon,Metz,3:0
+FR1,2025,2. Matchday,2025-08-24,Strasbourg,Nantes,1:0
+FR1,2025,2. Matchday,2025-08-22,PSG,Angers,1:0
+FR1,2025,3. Matchday,2025-08-30,Toulouse,PSG,3:6
+FR1,2025,3. Matchday,2025-08-31,Monaco,Strasbourg,3:2
+FR1,2025,3. Matchday,2025-08-29,Lens,Brest,3:1
+FR1,2025,3. Matchday,2025-08-30,Nantes,Auxerre,1:0
+FR1,2025,3. Matchday,2025-08-31,Angers,Rennes,1:1
+FR1,2025,3. Matchday,2025-08-31,Paris FC,Metz,3:2
+FR1,2025,3. Matchday,2025-08-31,Le Havre,Nice,3:1
+FR1,2025,3. Matchday,2025-08-30,Lorient,Lille,1:7
+FR1,2025,3. Matchday,2025-08-31,Lyon,Marseille,1:0
+FR1,2025,4. Matchday,2025-09-12,Marseille,Lorient,4:0
+FR1,2025,4. Matchday,2025-09-14,PSG,Lens,2:0
+FR1,2025,4. Matchday,2025-09-13,Auxerre,Monaco,1:2
+FR1,2025,4. Matchday,2025-09-13,Nice,Nantes,1:0
+FR1,2025,4. Matchday,2025-09-14,Metz,Angers,1:1
+FR1,2025,4. Matchday,2025-09-14,Brest,Paris FC,1:2
+FR1,2025,4. Matchday,2025-09-14,Strasbourg,Le Havre,1:0
+FR1,2025,4. Matchday,2025-09-14,Lille,Toulouse,2:1
+FR1,2025,4. Matchday,2025-09-14,Rennes,Lyon,3:1
+FR1,2025,5. Matchday,2025-09-20,Lens,Lille,3:0
+FR1,2025,5. Matchday,2025-09-20,Nantes,Rennes,2:2
+FR1,2025,5. Matchday,2025-09-21,Paris FC,Strasbourg,2:3
+FR1,2025,5. Matchday,2025-09-20,Brest,Nice,4:1
+FR1,2025,5. Matchday,2025-09-21,Auxerre,Toulouse,1:0
+FR1,2025,5. Matchday,2025-09-21,Le Havre,Lorient,1:1
+FR1,2025,5. Matchday,2025-09-21,Monaco,Metz,5:2
+FR1,2025,5. Matchday,2025-09-19,Lyon,Angers,1:0
+FR1,2025,5. Matchday,2025-09-22,Marseille,PSG,1:0
+FR1,2025,6. Matchday,2025-09-26,Strasbourg,Marseille,1:2
+FR1,2025,6. Matchday,2025-09-28,Angers,Brest,0:2
+FR1,2025,6. Matchday,2025-09-28,Rennes,Lens,0:0
+FR1,2025,6. Matchday,2025-09-27,Toulouse,Nantes,2:2
+FR1,2025,6. Matchday,2025-09-28,Metz,Le Havre,0:0
+FR1,2025,6. Matchday,2025-09-28,Nice,Paris FC,1:1
+FR1,2025,6. Matchday,2025-09-27,Lorient,Monaco,3:1
+FR1,2025,6. Matchday,2025-09-28,Lille,Lyon,0:1
+FR1,2025,6. Matchday,2025-09-27,PSG,Auxerre,2:0
+FR1,2025,7. Matchday,2025-10-05,Monaco,Nice,2:2
+FR1,2025,7. Matchday,2025-10-04,Metz,Marseille,0:3
+FR1,2025,7. Matchday,2025-10-05,Lyon,Toulouse,1:2
+FR1,2025,7. Matchday,2025-10-05,Le Havre,Rennes,2:2
+FR1,2025,7. Matchday,2025-10-03,Paris FC,Lorient,2:0
+FR1,2025,7. Matchday,2025-10-05,Strasbourg,Angers,5:0
+FR1,2025,7. Matchday,2025-10-04,Brest,Nantes,0:0
+FR1,2025,7. Matchday,2025-10-04,Auxerre,Lens,1:2
+FR1,2025,7. Matchday,2025-10-05,Lille,PSG,1:1
+FR1,2025,8. Matchday,2025-10-18,Marseille,Le Havre,6:2
+FR1,2025,8. Matchday,2025-10-18,Nice,Lyon,3:2
+FR1,2025,8. Matchday,2025-10-17,PSG,Strasbourg,3:3
+FR1,2025,8. Matchday,2025-10-19,Toulouse,Metz,4:0
+FR1,2025,8. Matchday,2025-10-19,Lens,Paris FC,2:1
+FR1,2025,8. Matchday,2025-10-19,Lorient,Brest,3:3
+FR1,2025,8. Matchday,2025-10-18,Angers,Monaco,1:1
+FR1,2025,8. Matchday,2025-10-19,Nantes,Lille,0:2
+FR1,2025,8. Matchday,2025-10-19,Rennes,Auxerre,2:2
+FR1,2025,9. Matchday,2025-10-26,Lyon,Strasbourg,2:1
+FR1,2025,9. Matchday,2025-10-26,Angers,Lorient,2:0
+FR1,2025,9. Matchday,2025-10-25,Monaco,Toulouse,1:0
+FR1,2025,9. Matchday,2025-10-26,Rennes,Nice,1:2
+FR1,2025,9. Matchday,2025-10-26,Auxerre,Le Havre,0:1
+FR1,2025,9. Matchday,2025-10-26,Lille,Metz,6:1
+FR1,2025,9. Matchday,2025-10-24,Paris FC,Nantes,1:2
+FR1,2025,9. Matchday,2025-10-25,Lens,Marseille,2:1
+FR1,2025,9. Matchday,2025-10-25,Brest,PSG,0:3
+FR1,2025,10. Matchday,2025-10-29,Marseille,Angers,2:2
+FR1,2025,10. Matchday,2025-10-29,Lorient,PSG,1:1
+FR1,2025,10. Matchday,2025-10-29,Nantes,Monaco,3:5
+FR1,2025,10. Matchday,2025-10-29,Strasbourg,Auxerre,3:0
+FR1,2025,10. Matchday,2025-10-29,Paris FC,Lyon,3:3
+FR1,2025,10. Matchday,2025-10-29,Le Havre,Brest,1:0
+FR1,2025,10. Matchday,2025-10-29,Toulouse,Rennes,2:2
+FR1,2025,10. Matchday,2025-10-29,Metz,Lens,2:0
+FR1,2025,10. Matchday,2025-10-29,Nice,Lille,2:0
+FR1,2025,11. Matchday,2025-11-01,PSG,Nice,1:0
+FR1,2025,11. Matchday,2025-11-02,Toulouse,Le Havre,0:0
+FR1,2025,11. Matchday,2025-11-02,Lille,Angers,1:0
+FR1,2025,11. Matchday,2025-11-02,Rennes,Strasbourg,4:1
+FR1,2025,11. Matchday,2025-11-02,Lens,Lorient,3:0
+FR1,2025,11. Matchday,2025-11-02,Brest,Lyon,0:0
+FR1,2025,11. Matchday,2025-11-02,Nantes,Metz,0:2
+FR1,2025,11. Matchday,2025-11-01,Monaco,Paris FC,0:1
+FR1,2025,11. Matchday,2025-11-01,Auxerre,Marseille,0:1
+FR1,2025,12. Matchday,2025-11-08,Marseille,Brest,3:0
+FR1,2025,12. Matchday,2025-11-09,Lyon,PSG,2:3
+FR1,2025,12. Matchday,2025-11-09,Metz,Nice,2:1
+FR1,2025,12. Matchday,2025-11-09,Angers,Auxerre,2:0
+FR1,2025,12. Matchday,2025-11-08,Le Havre,Nantes,1:1
+FR1,2025,12. Matchday,2025-11-07,Paris FC,Rennes,0:1
+FR1,2025,12. Matchday,2025-11-09,Lorient,Toulouse,1:1
+FR1,2025,12. Matchday,2025-11-08,Monaco,Lens,1:4
+FR1,2025,12. Matchday,2025-11-09,Strasbourg,Lille,2:0
+FR1,2025,13. Matchday,2025-11-22,Lens,Strasbourg,1:0
+FR1,2025,13. Matchday,2025-11-22,Rennes,Monaco,4:1
+FR1,2025,13. Matchday,2025-11-23,Nantes,Lorient,1:1
+FR1,2025,13. Matchday,2025-11-23,Toulouse,Angers,0:1
+FR1,2025,13. Matchday,2025-11-23,Brest,Metz,3:2
+FR1,2025,13. Matchday,2025-11-23,Lille,Paris FC,4:2
+FR1,2025,13. Matchday,2025-11-23,Auxerre,Lyon,0:0
+FR1,2025,13. Matchday,2025-11-21,Nice,Marseille,1:5
+FR1,2025,13. Matchday,2025-11-22,PSG,Le Havre,3:0
+FR1,2025,14. Matchday,2025-11-30,Lyon,Nantes,3:0
+FR1,2025,14. Matchday,2025-11-29,Paris FC,Auxerre,1:1
+FR1,2025,14. Matchday,2025-11-30,Angers,Lens,1:2
+FR1,2025,14. Matchday,2025-11-30,Le Havre,Lille,0:1
+FR1,2025,14. Matchday,2025-11-28,Metz,Rennes,0:1
+FR1,2025,14. Matchday,2025-11-30,Strasbourg,Brest,1:2
+FR1,2025,14. Matchday,2025-11-30,Lorient,Nice,3:1
+FR1,2025,14. Matchday,2025-11-29,Monaco,PSG,1:0
+FR1,2025,14. Matchday,2025-11-29,Marseille,Toulouse,2:2
+FR1,2025,15. Matchday,2025-12-05,Lille,Marseille,1:0
+FR1,2025,15. Matchday,2025-12-07,Le Havre,Paris FC,0:0
+FR1,2025,15. Matchday,2025-12-07,Auxerre,Metz,3:1
+FR1,2025,15. Matchday,2025-12-06,Nantes,Lens,1:2
+FR1,2025,15. Matchday,2025-12-07,Nice,Angers,0:1
+FR1,2025,15. Matchday,2025-12-05,Brest,Monaco,1:0
+FR1,2025,15. Matchday,2025-12-07,Lorient,Lyon,1:0
+FR1,2025,15. Matchday,2025-12-06,Toulouse,Strasbourg,1:0
+FR1,2025,15. Matchday,2025-12-06,PSG,Rennes,5:0
+FR1,2025,16. Matchday,2025-12-12,Angers,Nantes,4:1
+FR1,2025,16. Matchday,2025-12-13,Paris FC,Toulouse,0:3
+FR1,2025,16. Matchday,2025-12-14,Auxerre,Lille,3:4
+FR1,2025,16. Matchday,2025-12-13,Rennes,Brest,3:1
+FR1,2025,16. Matchday,2025-12-14,Lyon,Le Havre,1:0
+FR1,2025,16. Matchday,2025-12-14,Strasbourg,Lorient,0:0
+FR1,2025,16. Matchday,2025-12-13,Metz,PSG,2:3
+FR1,2025,16. Matchday,2025-12-14,Lens,Nice,2:0
+FR1,2025,16. Matchday,2025-12-14,Marseille,Monaco,1:0
+FR1,2025,17. Matchday,2026-01-03,Nice,Strasbourg,1:1
+FR1,2025,17. Matchday,2026-01-04,PSG,Paris FC,2:1
+FR1,2025,17. Matchday,2026-01-03,Monaco,Lyon,1:3
+FR1,2025,17. Matchday,2026-01-03,Lille,Rennes,0:2
+FR1,2025,17. Matchday,2026-01-04,Le Havre,Angers,2:1
+FR1,2025,17. Matchday,2026-01-04,Lorient,Metz,1:1
+FR1,2025,17. Matchday,2026-01-04,Brest,Auxerre,2:0
+FR1,2025,17. Matchday,2026-01-02,Toulouse,Lens,0:3
+FR1,2025,17. Matchday,2026-01-04,Marseille,Nantes,0:2
+FR1,2025,18. Matchday,2026-01-18,Rennes,Le Havre,1:1
+FR1,2025,18. Matchday,2026-01-18,Strasbourg,Metz,2:1
+FR1,2025,18. Matchday,2026-01-18,Lyon,Brest,2:1
+FR1,2025,18. Matchday,2026-01-17,Lens,Auxerre,1:0
+FR1,2025,18. Matchday,2026-01-17,Toulouse,Nice,5:1
+FR1,2025,18. Matchday,2026-01-18,Nantes,Paris FC,1:2
+FR1,2025,18. Matchday,2026-01-16,Monaco,Lorient,1:3
+FR1,2025,18. Matchday,2026-01-16,PSG,Lille,3:0
+FR1,2025,18. Matchday,2026-01-17,Angers,Marseille,2:5
+FR1,2025,19. Matchday,2026-01-25,Lille,Strasbourg,1:4
+FR1,2025,19. Matchday,2026-01-23,Auxerre,PSG,0:1
+FR1,2025,19. Matchday,2026-01-25,Brest,Toulouse,0:2
+FR1,2025,19. Matchday,2026-01-25,Paris FC,Angers,0:0
+FR1,2025,19. Matchday,2026-01-24,Rennes,Lorient,0:2
+FR1,2025,19. Matchday,2026-01-25,Metz,Lyon,2:5
+FR1,2025,19. Matchday,2026-01-24,Le Havre,Monaco,0:0
+FR1,2025,19. Matchday,2026-01-25,Nantes,Nice,1:4
+FR1,2025,19. Matchday,2026-01-24,Marseille,Lens,3:1
+FR1,2025,20. Matchday,2026-01-31,Paris FC,Marseille,2:2
+FR1,2025,20. Matchday,2026-02-01,Lyon,Lille,1:0
+FR1,2025,20. Matchday,2026-02-01,Strasbourg,PSG,1:2
+FR1,2025,20. Matchday,2026-02-01,Toulouse,Auxerre,0:0
+FR1,2025,20. Matchday,2026-01-31,Lorient,Nantes,2:1
+FR1,2025,20. Matchday,2026-01-31,Monaco,Rennes,4:0
+FR1,2025,20. Matchday,2026-01-30,Lens,Le Havre,1:0
+FR1,2025,20. Matchday,2026-02-01,Nice,Brest,2:2
+FR1,2025,20. Matchday,2026-02-01,Angers,Metz,1:0
+FR1,2025,21. Matchday,2026-02-08,PSG,Marseille,5:0
+FR1,2025,21. Matchday,2026-02-08,Nice,Monaco,0:0
+FR1,2025,21. Matchday,2026-02-07,Brest,Lorient,2:0
+FR1,2025,21. Matchday,2026-02-08,Le Havre,Strasbourg,2:1
+FR1,2025,21. Matchday,2026-02-08,Auxerre,Paris FC,0:0
+FR1,2025,21. Matchday,2026-02-07,Nantes,Lyon,0:1
+FR1,2025,21. Matchday,2026-02-07,Lens,Rennes,3:1
+FR1,2025,21. Matchday,2026-02-08,Angers,Toulouse,1:0
+FR1,2025,21. Matchday,2026-02-06,Metz,Lille,0:0
+FR1,2025,22. Matchday,2026-02-15,Lyon,Nice,2:0
+FR1,2025,22. Matchday,2026-02-14,Marseille,Strasbourg,2:2
+FR1,2025,22. Matchday,2026-02-14,Lille,Brest,1:1
+FR1,2025,22. Matchday,2026-02-15,Le Havre,Toulouse,2:1
+FR1,2025,22. Matchday,2026-02-15,Metz,Auxerre,1:3
+FR1,2025,22. Matchday,2026-02-15,Lorient,Angers,2:0
+FR1,2025,22. Matchday,2026-02-13,Monaco,Nantes,3:1
+FR1,2025,22. Matchday,2026-02-14,Paris FC,Lens,0:5
+FR1,2025,22. Matchday,2026-02-13,Rennes,PSG,3:1
+FR1,2025,23. Matchday,2026-02-22,Strasbourg,Lyon,3:1
+FR1,2025,23. Matchday,2026-02-21,Lens,Monaco,2:3
+FR1,2025,23. Matchday,2026-02-21,PSG,Metz,3:0
+FR1,2025,23. Matchday,2026-02-20,Brest,Marseille,2:0
+FR1,2025,23. Matchday,2026-02-22,Nice,Lorient,3:3
+FR1,2025,23. Matchday,2026-02-22,Nantes,Le Havre,2:0
+FR1,2025,23. Matchday,2026-02-21,Toulouse,Paris FC,1:1
+FR1,2025,23. Matchday,2026-02-22,Angers,Lille,0:1
+FR1,2025,23. Matchday,2026-02-22,Auxerre,Rennes,0:3
+FR1,2025,24. Matchday,2026-02-28,Le Havre,PSG,0:1
+FR1,2025,24. Matchday,2026-02-28,Rennes,Toulouse,1:0
+FR1,2025,24. Matchday,2026-02-28,Monaco,Angers,2:0
+FR1,2025,24. Matchday,2026-03-01,Lorient,Auxerre,2:2
+FR1,2025,24. Matchday,2026-03-01,Metz,Brest,0:1
+FR1,2025,24. Matchday,2026-03-01,Lille,Nantes,1:0
+FR1,2025,24. Matchday,2026-03-01,Paris FC,Nice,1:0
+FR1,2025,24. Matchday,2026-02-27,Strasbourg,Lens,1:1
+FR1,2025,24. Matchday,2026-03-01,Marseille,Lyon,3:2
+FR1,2025,25. Matchday,2026-03-07,Toulouse,Marseille,0:1
+FR1,2025,25. Matchday,2026-03-08,Brest,Le Havre,2:0
+FR1,2025,25. Matchday,2026-03-08,Nice,Rennes,0:4
+FR1,2025,25. Matchday,2026-03-08,Lyon,Paris FC,1:1
+FR1,2025,25. Matchday,2026-03-08,Lens,Metz,3:0
+FR1,2025,25. Matchday,2026-03-08,Lille,Lorient,1:1
+FR1,2025,25. Matchday,2026-03-07,Auxerre,Strasbourg,0:0
+FR1,2025,25. Matchday,2026-03-07,Nantes,Angers,0:1
+FR1,2025,25. Matchday,2026-03-06,PSG,Monaco,1:3
+FR1,2025,26. Matchday,2026-04-22,PSG,Nantes,3:0
+FR1,2025,26. Matchday,2026-03-14,Lorient,Lens,2:1
+FR1,2025,26. Matchday,2026-03-15,Le Havre,Lyon,0:0
+FR1,2025,26. Matchday,2026-03-15,Strasbourg,Paris FC,0:0
+FR1,2025,26. Matchday,2026-03-15,Metz,Toulouse,3:4
+FR1,2025,26. Matchday,2026-03-15,Rennes,Lille,1:2
+FR1,2025,26. Matchday,2026-03-14,Angers,Nice,0:2
+FR1,2025,26. Matchday,2026-03-14,Monaco,Brest,2:0
+FR1,2025,26. Matchday,2026-03-13,Marseille,Auxerre,1:0
+FR1,2025,27. Matchday,2026-03-22,Lyon,Monaco,1:2
+FR1,2025,27. Matchday,2026-03-21,Auxerre,Brest,3:0
+FR1,2025,27. Matchday,2026-03-22,Rennes,Metz,0:0
+FR1,2025,27. Matchday,2026-03-22,Nantes,Strasbourg,2:3
+FR1,2025,27. Matchday,2026-03-20,Lens,Angers,5:1
+FR1,2025,27. Matchday,2026-03-22,Paris FC,Le Havre,3:2
+FR1,2025,27. Matchday,2026-03-21,Toulouse,Lorient,1:0
+FR1,2025,27. Matchday,2026-03-21,Nice,PSG,0:4
+FR1,2025,27. Matchday,2026-03-22,Marseille,Lille,1:2
+FR1,2025,28. Matchday,2026-04-05,Monaco,Marseille,2:1
+FR1,2025,28. Matchday,2026-04-04,Brest,Rennes,3:4
+FR1,2025,28. Matchday,2026-04-05,Angers,Lyon,0:0
+FR1,2025,28. Matchday,2026-04-05,Metz,Nantes,0:0
+FR1,2025,28. Matchday,2026-04-05,Le Havre,Auxerre,1:1
+FR1,2025,28. Matchday,2026-04-05,Lorient,Paris FC,1:1
+FR1,2025,28. Matchday,2026-04-04,Lille,Lens,3:0
+FR1,2025,28. Matchday,2026-04-03,PSG,Toulouse,3:1
+FR1,2025,28. Matchday,2026-04-04,Strasbourg,Nice,3:1
+FR1,2025,29. Matchday,2026-04-10,Marseille,Metz,3:1
+FR1,2025,29. Matchday,2026-04-12,Lyon,Lorient,2:0
+FR1,2025,29. Matchday,2026-04-11,Rennes,Angers,2:1
+FR1,2025,29. Matchday,2026-04-12,Nice,Le Havre,1:1
+FR1,2025,29. Matchday,2026-05-13,Brest,Strasbourg,1:2
+FR1,2025,29. Matchday,2026-04-10,Paris FC,Monaco,4:1
+FR1,2025,29. Matchday,2026-04-12,Toulouse,Lille,0:4
+FR1,2025,29. Matchday,2026-04-11,Auxerre,Nantes,0:0
+FR1,2025,29. Matchday,2026-05-13,Lens,PSG,0:2
+FR1,2025,30. Matchday,2026-04-18,Lorient,Marseille,2:0
+FR1,2025,30. Matchday,2026-04-19,Strasbourg,Rennes,0:3
+FR1,2025,30. Matchday,2026-04-19,Metz,Paris FC,1:3
+FR1,2025,30. Matchday,2026-04-17,Lens,Toulouse,3:2
+FR1,2025,30. Matchday,2026-04-18,Angers,Le Havre,1:1
+FR1,2025,30. Matchday,2026-04-19,Monaco,Auxerre,2:2
+FR1,2025,30. Matchday,2026-04-19,Nantes,Brest,1:1
+FR1,2025,30. Matchday,2026-04-18,Lille,Nice,0:0
+FR1,2025,30. Matchday,2026-04-19,PSG,Lyon,1:2
+FR1,2025,31. Matchday,2026-04-26,Rennes,Nantes,2:1
+FR1,2025,31. Matchday,2026-04-25,Angers,PSG,0:3
+FR1,2025,31. Matchday,2026-04-26,Le Havre,Metz,4:4
+FR1,2025,31. Matchday,2026-04-26,Paris FC,Lille,0:1
+FR1,2025,31. Matchday,2026-04-26,Lorient,Strasbourg,2:3
+FR1,2025,31. Matchday,2026-04-25,Lyon,Auxerre,3:2
+FR1,2025,31. Matchday,2026-04-25,Toulouse,Monaco,2:2
+FR1,2025,31. Matchday,2026-04-24,Brest,Lens,3:3
+FR1,2025,31. Matchday,2026-04-26,Marseille,Nice,1:1
+FR1,2025,32. Matchday,2026-05-02,PSG,Lorient,2:2
+FR1,2025,32. Matchday,2026-05-02,Nantes,Marseille,3:0
+FR1,2025,32. Matchday,2026-05-02,Metz,Monaco,1:2
+FR1,2025,32. Matchday,2026-05-03,Lille,Le Havre,1:1
+FR1,2025,32. Matchday,2026-05-03,Strasbourg,Toulouse,1:2
+FR1,2025,32. Matchday,2026-05-03,Lyon,Rennes,4:2
+FR1,2025,32. Matchday,2026-05-03,Paris FC,Brest,4:0
+FR1,2025,32. Matchday,2026-05-03,Auxerre,Angers,3:1
+FR1,2025,32. Matchday,2026-05-02,Nice,Lens,1:1
+FR1,2025,33. Matchday,2026-05-10,PSG,Brest,1:0
+FR1,2025,33. Matchday,2026-05-10,Le Havre,Marseille,0:1
+FR1,2025,33. Matchday,2026-05-10,Toulouse,Lyon,2:1
+FR1,2025,33. Matchday,2026-05-08,Lens,Nantes,1:0
+FR1,2025,33. Matchday,2026-05-10,Auxerre,Nice,2:1
+FR1,2025,33. Matchday,2026-05-10,Rennes,Paris FC,2:1
+FR1,2025,33. Matchday,2026-05-10,Metz,Lorient,0:4
+FR1,2025,33. Matchday,2026-05-10,Angers,Strasbourg,1:1
+FR1,2025,33. Matchday,2026-05-10,Monaco,Lille,0:1
+FR1,2025,34. Matchday,2026-05-17,Lorient,Le Havre,0:2
+FR1,2025,34. Matchday,2026-05-17,Brest,Angers,1:1
+FR1,2025,34. Matchday,2026-05-17,Lille,Auxerre,0:2
+FR1,2025,34. Matchday,2026-05-17,Nice,Metz,0:0
+FR1,2025,34. Matchday,2026-05-17,Paris FC,PSG,2:1
+FR1,2025,34. Matchday,2026-05-17,Marseille,Rennes,3:1
+FR1,2025,34. Matchday,2026-05-17,Strasbourg,Monaco,5:4
+FR1,2025,34. Matchday,2026-05-17,Lyon,Lens,0:4
+ES1,2025,5. Matchday,2025-09-20,Alaves,Sevilla,1:2
+ES1,2025,5. Matchday,2025-09-21,Barcelona,Getafe,3:0
+ES1,2025,5. Matchday,2025-09-19,Real Betis,Real Sociedad,3:1
+ES1,2025,5. Matchday,2025-09-21,Elche,Real Oviedo,1:0
+ES1,2025,5. Matchday,2025-09-20,Girona,Levante,0:4
+ES1,2025,5. Matchday,2025-09-20,Valencia,Athletic Bilbao,2:0
+ES1,2025,5. Matchday,2025-09-21,Mallorca,Atletico Madrid,1:1
+ES1,2025,5. Matchday,2025-09-21,Rayo Vallecano,Celta Vigo,1:1
+ES1,2025,5. Matchday,2025-09-20,Real Madrid,Espanyol,2:0
+ES1,2025,5. Matchday,2025-09-20,Villarreal,Osasuna,2:1
+ES1,2025,13. Matchday,2025-11-23,Real Betis,Girona,1:1
+ES1,2025,13. Matchday,2025-11-23,Elche,Real Madrid,2:2
+ES1,2025,13. Matchday,2025-11-24,Espanyol,Sevilla,2:1
+ES1,2025,13. Matchday,2025-11-22,Osasuna,Real Sociedad,1:3
+ES1,2025,13. Matchday,2025-11-23,Real Oviedo,Rayo Vallecano,0:0
+ES1,2025,13. Matchday,2025-11-22,Barcelona,Athletic Bilbao,4:0
+ES1,2025,13. Matchday,2025-11-23,Getafe,Atletico Madrid,0:1
+ES1,2025,13. Matchday,2025-11-21,Valencia,Levante,1:0
+ES1,2025,13. Matchday,2025-11-22,Villarreal,Mallorca,2:1
+ES1,2025,13. Matchday,2025-11-22,Alaves,Celta Vigo,0:1
+ES1,2025,8. Matchday,2025-10-05,Alaves,Elche,3:1
+ES1,2025,8. Matchday,2025-10-04,Athletic Bilbao,Mallorca,2:1
+ES1,2025,8. Matchday,2025-10-04,Girona,Valencia,2:1
+ES1,2025,8. Matchday,2025-10-04,Real Madrid,Villarreal,3:1
+ES1,2025,8. Matchday,2025-10-05,Celta Vigo,Atletico Madrid,1:1
+ES1,2025,8. Matchday,2025-10-05,Sevilla,Barcelona,4:1
+ES1,2025,8. Matchday,2025-10-05,Espanyol,Real Betis,1:2
+ES1,2025,8. Matchday,2025-10-03,Osasuna,Getafe,2:1
+ES1,2025,8. Matchday,2025-10-04,Real Oviedo,Levante,0:2
+ES1,2025,8. Matchday,2025-10-05,Real Sociedad,Rayo Vallecano,0:1
+ES1,2025,2. Matchday,2025-08-25,Sevilla,Getafe,1:2
+ES1,2025,2. Matchday,2025-08-24,Villarreal,Girona,5:0
+ES1,2025,2. Matchday,2025-08-25,Athletic Bilbao,Rayo Vallecano,1:0
+ES1,2025,2. Matchday,2025-08-23,Atletico Madrid,Elche,1:1
+ES1,2025,2. Matchday,2025-08-24,Osasuna,Valencia,1:0
+ES1,2025,2. Matchday,2025-08-24,Real Oviedo,Real Madrid,0:3
+ES1,2025,2. Matchday,2025-08-22,Real Betis,Alaves,1:0
+ES1,2025,2. Matchday,2025-08-23,Levante,Barcelona,2:3
+ES1,2025,2. Matchday,2025-08-23,Mallorca,Celta Vigo,1:1
+ES1,2025,2. Matchday,2025-08-24,Real Sociedad,Espanyol,2:2
+ES1,2025,3. Matchday,2025-08-29,Valencia,Getafe,3:0
+ES1,2025,3. Matchday,2025-08-30,Real Madrid,Mallorca,2:1
+ES1,2025,3. Matchday,2025-08-30,Alaves,Atletico Madrid,1:1
+ES1,2025,3. Matchday,2025-08-31,Celta Vigo,Villarreal,1:1
+ES1,2025,3. Matchday,2025-08-29,Elche,Levante,2:0
+ES1,2025,3. Matchday,2025-08-31,Espanyol,Osasuna,1:0
+ES1,2025,3. Matchday,2025-08-30,Girona,Sevilla,0:2
+ES1,2025,3. Matchday,2025-08-30,Real Oviedo,Real Sociedad,1:0
+ES1,2025,3. Matchday,2025-08-31,Real Betis,Athletic Bilbao,1:2
+ES1,2025,3. Matchday,2025-08-31,Rayo Vallecano,Barcelona,1:1
+ES1,2025,6. Matchday,2025-09-24,Real Sociedad,Mallorca,1:0
+ES1,2025,6. Matchday,2025-09-23,Athletic Bilbao,Girona,1:1
+ES1,2025,6. Matchday,2025-09-24,Atletico Madrid,Rayo Vallecano,3:2
+ES1,2025,6. Matchday,2025-09-23,Espanyol,Valencia,2:2
+ES1,2025,6. Matchday,2025-09-23,Levante,Real Madrid,1:4
+ES1,2025,6. Matchday,2025-09-23,Sevilla,Villarreal,1:2
+ES1,2025,6. Matchday,2025-09-24,Getafe,Alaves,1:1
+ES1,2025,6. Matchday,2025-09-25,Real Oviedo,Barcelona,1:3
+ES1,2025,6. Matchday,2025-08-27,Celta Vigo,Real Betis,1:1
+ES1,2025,6. Matchday,2025-09-25,Osasuna,Elche,1:1
+ES1,2025,12. Matchday,2025-11-09,Athletic Bilbao,Real Oviedo,1:0
+ES1,2025,12. Matchday,2025-11-08,Atletico Madrid,Levante,3:1
+ES1,2025,12. Matchday,2025-11-07,Elche,Real Sociedad,1:1
+ES1,2025,12. Matchday,2025-11-08,Espanyol,Villarreal,0:2
+ES1,2025,12. Matchday,2025-11-09,Rayo Vallecano,Real Madrid,0:0
+ES1,2025,12. Matchday,2025-11-08,Girona,Alaves,1:0
+ES1,2025,12. Matchday,2025-11-09,Celta Vigo,Barcelona,2:4
+ES1,2025,12. Matchday,2025-11-09,Valencia,Real Betis,1:1
+ES1,2025,12. Matchday,2025-11-09,Mallorca,Getafe,1:0
+ES1,2025,12. Matchday,2025-11-08,Sevilla,Osasuna,1:0
+ES1,2025,10. Matchday,2025-10-25,Athletic Bilbao,Getafe,0:1
+ES1,2025,10. Matchday,2025-10-25,Girona,Real Oviedo,3:3
+ES1,2025,10. Matchday,2025-10-24,Real Sociedad,Sevilla,2:1
+ES1,2025,10. Matchday,2025-10-25,Valencia,Villarreal,0:2
+ES1,2025,10. Matchday,2025-10-26,Rayo Vallecano,Alaves,1:0
+ES1,2025,10. Matchday,2025-10-27,Real Betis,Atletico Madrid,0:2
+ES1,2025,10. Matchday,2025-10-26,Real Madrid,Barcelona,2:1
+ES1,2025,10. Matchday,2025-10-26,Osasuna,Celta Vigo,2:3
+ES1,2025,10. Matchday,2025-10-25,Espanyol,Elche,1:0
+ES1,2025,10. Matchday,2025-10-26,Mallorca,Levante,1:1
+ES1,2025,4. Matchday,2025-09-13,Real Sociedad,Real Madrid,1:2
+ES1,2025,4. Matchday,2025-09-13,Atletico Madrid,Villarreal,2:0
+ES1,2025,4. Matchday,2025-09-14,Barcelona,Valencia,6:0
+ES1,2025,4. Matchday,2025-09-14,Celta Vigo,Girona,1:1
+ES1,2025,4. Matchday,2025-09-15,Espanyol,Mallorca,3:2
+ES1,2025,4. Matchday,2025-09-13,Getafe,Real Oviedo,2:0
+ES1,2025,4. Matchday,2025-09-14,Osasuna,Rayo Vallecano,2:0
+ES1,2025,4. Matchday,2025-09-13,Athletic Bilbao,Alaves,0:1
+ES1,2025,4. Matchday,2025-09-14,Levante,Real Betis,2:2
+ES1,2025,4. Matchday,2025-09-12,Sevilla,Elche,2:2
+ES1,2025,7. Matchday,2025-09-30,Valencia,Real Oviedo,1:2
+ES1,2025,7. Matchday,2025-09-27,Atletico Madrid,Real Madrid,5:2
+ES1,2025,7. Matchday,2025-09-28,Barcelona,Real Sociedad,2:1
+ES1,2025,7. Matchday,2025-09-28,Real Betis,Osasuna,2:0
+ES1,2025,7. Matchday,2025-09-27,Getafe,Levante,1:1
+ES1,2025,7. Matchday,2025-09-28,Rayo Vallecano,Sevilla,0:1
+ES1,2025,7. Matchday,2025-09-27,Mallorca,Alaves,1:0
+ES1,2025,7. Matchday,2025-09-27,Villarreal,Athletic Bilbao,1:0
+ES1,2025,7. Matchday,2025-09-28,Elche,Celta Vigo,2:1
+ES1,2025,7. Matchday,2025-09-26,Girona,Espanyol,0:0
+ES1,2025,11. Matchday,2025-11-01,Atletico Madrid,Sevilla,3:0
+ES1,2025,11. Matchday,2025-11-02,Barcelona,Elche,3:1
+ES1,2025,11. Matchday,2025-11-02,Real Betis,Mallorca,3:0
+ES1,2025,11. Matchday,2025-10-31,Getafe,Girona,2:1
+ES1,2025,11. Matchday,2025-11-01,Real Madrid,Valencia,4:0
+ES1,2025,11. Matchday,2025-11-01,Real Sociedad,Athletic Bilbao,3:2
+ES1,2025,11. Matchday,2025-11-02,Levante,Celta Vigo,1:2
+ES1,2025,11. Matchday,2025-11-03,Real Oviedo,Osasuna,0:0
+ES1,2025,11. Matchday,2025-11-01,Villarreal,Rayo Vallecano,4:0
+ES1,2025,11. Matchday,2025-11-02,Alaves,Espanyol,2:1
+ES1,2025,9. Matchday,2025-10-20,Alaves,Valencia,0:0
+ES1,2025,9. Matchday,2025-10-18,Atletico Madrid,Osasuna,1:0
+ES1,2025,9. Matchday,2025-10-18,Barcelona,Girona,2:1
+ES1,2025,9. Matchday,2025-10-19,Celta Vigo,Real Sociedad,1:1
+ES1,2025,9. Matchday,2025-10-19,Getafe,Real Madrid,0:1
+ES1,2025,9. Matchday,2025-10-19,Levante,Rayo Vallecano,0:3
+ES1,2025,9. Matchday,2025-10-19,Elche,Athletic Bilbao,0:0
+ES1,2025,9. Matchday,2025-10-18,Villarreal,Real Betis,2:2
+ES1,2025,9. Matchday,2025-10-17,Real Oviedo,Espanyol,0:2
+ES1,2025,9. Matchday,2025-10-18,Sevilla,Mallorca,1:3
+ES1,2025,1. Matchday,2025-08-16,Alaves,Levante,2:1
+ES1,2025,1. Matchday,2025-08-15,Girona,Rayo Vallecano,1:3
+ES1,2025,1. Matchday,2025-08-17,Espanyol,Atletico Madrid,2:1
+ES1,2025,1. Matchday,2025-08-16,Mallorca,Barcelona,0:3
+ES1,2025,1. Matchday,2025-08-18,Elche,Real Betis,1:1
+ES1,2025,1. Matchday,2025-08-19,Real Madrid,Osasuna,1:0
+ES1,2025,1. Matchday,2025-08-16,Valencia,Real Sociedad,1:1
+ES1,2025,1. Matchday,2025-08-15,Villarreal,Real Oviedo,2:0
+ES1,2025,1. Matchday,2025-08-17,Athletic Bilbao,Sevilla,3:2
+ES1,2025,1. Matchday,2025-08-17,Celta Vigo,Getafe,0:2
+ES1,2025,14. Matchday,2025-11-30,Girona,Real Madrid,1:1
+ES1,2025,14. Matchday,2025-11-29,Mallorca,Osasuna,2:2
+ES1,2025,14. Matchday,2025-12-01,Rayo Vallecano,Valencia,1:1
+ES1,2025,14. Matchday,2025-11-30,Real Sociedad,Villarreal,2:3
+ES1,2025,14. Matchday,2025-11-29,Barcelona,Alaves,3:1
+ES1,2025,14. Matchday,2025-11-29,Levante,Athletic Bilbao,0:2
+ES1,2025,14. Matchday,2025-11-30,Sevilla,Real Betis,0:2
+ES1,2025,14. Matchday,2025-11-28,Getafe,Elche,1:0
+ES1,2025,14. Matchday,2025-11-29,Atletico Madrid,Real Oviedo,2:0
+ES1,2025,14. Matchday,2025-11-30,Celta Vigo,Espanyol,0:1
+ES1,2025,15. Matchday,2025-12-07,Elche,Girona,3:0
+ES1,2025,15. Matchday,2025-12-07,Espanyol,Rayo Vallecano,1:0
+ES1,2025,15. Matchday,2025-12-06,Real Betis,Barcelona,3:5
+ES1,2025,15. Matchday,2025-12-07,Real Madrid,Celta Vigo,0:2
+ES1,2025,15. Matchday,2025-12-06,Villarreal,Getafe,2:0
+ES1,2025,15. Matchday,2025-12-08,Osasuna,Levante,2:0
+ES1,2025,15. Matchday,2025-12-05,Real Oviedo,Mallorca,0:0
+ES1,2025,15. Matchday,2025-12-07,Valencia,Sevilla,1:1
+ES1,2025,15. Matchday,2025-12-06,Alaves,Real Sociedad,1:0
+ES1,2025,15. Matchday,2025-12-06,Athletic Bilbao,Atletico Madrid,1:0
+ES1,2025,16. Matchday,2026-02-18,Levante,Villarreal,0:1
+ES1,2025,16. Matchday,2025-12-14,Celta Vigo,Athletic Bilbao,2:0
+ES1,2025,16. Matchday,2025-12-15,Rayo Vallecano,Real Betis,0:0
+ES1,2025,16. Matchday,2025-12-13,Mallorca,Elche,3:1
+ES1,2025,16. Matchday,2025-12-13,Getafe,Espanyol,0:1
+ES1,2025,16. Matchday,2025-12-12,Real Sociedad,Girona,1:2
+ES1,2025,16. Matchday,2025-12-14,Sevilla,Real Oviedo,4:0
+ES1,2025,16. Matchday,2025-12-14,Alaves,Real Madrid,1:2
+ES1,2025,16. Matchday,2025-12-13,Atletico Madrid,Valencia,2:1
+ES1,2025,16. Matchday,2025-12-13,Barcelona,Osasuna,2:0
+ES1,2025,21. Matchday,2026-01-23,Levante,Elche,3:2
+ES1,2025,21. Matchday,2026-01-24,Valencia,Espanyol,3:2
+ES1,2025,21. Matchday,2026-01-26,Girona,Getafe,1:1
+ES1,2025,21. Matchday,2026-01-24,Rayo Vallecano,Osasuna,1:3
+ES1,2025,21. Matchday,2026-01-24,Villarreal,Real Madrid,0:2
+ES1,2025,21. Matchday,2026-01-25,Alaves,Real Betis,2:1
+ES1,2025,21. Matchday,2026-01-25,Atletico Madrid,Mallorca,3:0
+ES1,2025,21. Matchday,2026-01-25,Barcelona,Real Oviedo,3:0
+ES1,2025,21. Matchday,2026-01-24,Sevilla,Athletic Bilbao,2:1
+ES1,2025,21. Matchday,2026-01-25,Real Sociedad,Celta Vigo,3:1
+ES1,2025,22. Matchday,2026-01-31,Levante,Atletico Madrid,0:0
+ES1,2025,22. Matchday,2026-01-31,Elche,Barcelona,1:3
+ES1,2025,22. Matchday,2026-02-01,Getafe,Celta Vigo,0:0
+ES1,2025,22. Matchday,2026-01-31,Real Oviedo,Girona,1:0
+ES1,2025,22. Matchday,2026-02-01,Real Madrid,Rayo Vallecano,2:1
+ES1,2025,22. Matchday,2026-02-01,Athletic Bilbao,Real Sociedad,1:1
+ES1,2025,22. Matchday,2026-02-01,Real Betis,Valencia,2:1
+ES1,2025,22. Matchday,2026-02-02,Mallorca,Sevilla,4:1
+ES1,2025,22. Matchday,2026-01-31,Osasuna,Villarreal,2:2
+ES1,2025,22. Matchday,2026-01-30,Espanyol,Alaves,1:2
+ES1,2025,23. Matchday,2026-02-06,Celta Vigo,Osasuna,1:2
+ES1,2025,23. Matchday,2026-02-07,Real Sociedad,Elche,3:1
+ES1,2025,23. Matchday,2026-02-09,Villarreal,Espanyol,4:1
+ES1,2025,23. Matchday,2026-02-08,Sevilla,Girona,1:1
+ES1,2025,23. Matchday,2026-02-08,Valencia,Real Madrid,0:2
+ES1,2025,23. Matchday,2026-03-04,Rayo Vallecano,Real Oviedo,3:0
+ES1,2025,23. Matchday,2026-02-08,Alaves,Getafe,0:2
+ES1,2025,23. Matchday,2026-02-08,Athletic Bilbao,Levante,4:2
+ES1,2025,23. Matchday,2026-02-08,Atletico Madrid,Real Betis,0:1
+ES1,2025,23. Matchday,2026-02-07,Barcelona,Mallorca,3:0
+ES1,2025,26. Matchday,2026-02-28,Real Oviedo,Atletico Madrid,0:1
+ES1,2025,26. Matchday,2026-03-01,Girona,Celta Vigo,1:2
+ES1,2025,26. Matchday,2026-03-02,Real Madrid,Getafe,0:1
+ES1,2025,26. Matchday,2026-03-01,Valencia,Osasuna,1:0
+ES1,2025,26. Matchday,2026-02-28,Barcelona,Villarreal,4:1
+ES1,2025,26. Matchday,2026-03-01,Real Betis,Sevilla,2:2
+ES1,2025,26. Matchday,2026-03-01,Elche,Espanyol,2:2
+ES1,2025,26. Matchday,2026-02-28,Mallorca,Real Sociedad,0:1
+ES1,2025,26. Matchday,2026-02-27,Levante,Alaves,2:0
+ES1,2025,26. Matchday,2026-02-28,Rayo Vallecano,Athletic Bilbao,1:1
+ES1,2025,19. Matchday,2026-01-10,Villarreal,Alaves,3:1
+ES1,2025,19. Matchday,2025-12-02,Barcelona,Atletico Madrid,3:1
+ES1,2025,19. Matchday,2026-01-10,Real Oviedo,Real Betis,1:1
+ES1,2025,19. Matchday,2026-01-12,Sevilla,Celta Vigo,0:1
+ES1,2025,19. Matchday,2026-01-10,Valencia,Elche,1:1
+ES1,2025,19. Matchday,2026-01-11,Levante,Espanyol,1:1
+ES1,2025,19. Matchday,2026-01-11,Rayo Vallecano,Mallorca,2:1
+ES1,2025,19. Matchday,2025-12-03,Athletic Bilbao,Real Madrid,0:3
+ES1,2025,19. Matchday,2026-01-09,Getafe,Real Sociedad,1:2
+ES1,2025,19. Matchday,2026-01-10,Girona,Osasuna,1:0
+ES1,2025,17. Matchday,2025-12-20,Real Madrid,Sevilla,2:0
+ES1,2025,17. Matchday,2025-12-20,Osasuna,Alaves,3:0
+ES1,2025,17. Matchday,2025-12-21,Girona,Atletico Madrid,0:3
+ES1,2025,17. Matchday,2025-12-21,Villarreal,Barcelona,0:2
+ES1,2025,17. Matchday,2025-12-20,Real Oviedo,Celta Vigo,0:0
+ES1,2025,17. Matchday,2025-12-19,Valencia,Mallorca,1:1
+ES1,2025,17. Matchday,2025-12-22,Athletic Bilbao,Espanyol,1:2
+ES1,2025,17. Matchday,2025-12-21,Real Betis,Getafe,4:0
+ES1,2025,17. Matchday,2025-12-21,Elche,Rayo Vallecano,4:0
+ES1,2025,17. Matchday,2025-12-20,Levante,Real Sociedad,1:1
+ES1,2025,18. Matchday,2026-01-03,Osasuna,Athletic Bilbao,1:1
+ES1,2025,18. Matchday,2026-01-04,Real Sociedad,Atletico Madrid,1:1
+ES1,2025,18. Matchday,2026-01-03,Espanyol,Barcelona,0:2
+ES1,2025,18. Matchday,2026-01-04,Real Madrid,Real Betis,5:1
+ES1,2025,18. Matchday,2026-01-02,Rayo Vallecano,Getafe,1:1
+ES1,2025,18. Matchday,2026-01-04,Mallorca,Girona,1:2
+ES1,2025,18. Matchday,2026-01-04,Sevilla,Levante,0:3
+ES1,2025,18. Matchday,2026-01-04,Alaves,Real Oviedo,1:1
+ES1,2025,18. Matchday,2026-01-03,Celta Vigo,Valencia,4:1
+ES1,2025,18. Matchday,2026-01-03,Elche,Villarreal,1:3
+ES1,2025,25. Matchday,2026-02-22,Getafe,Sevilla,0:1
+ES1,2025,25. Matchday,2026-02-21,Osasuna,Real Madrid,2:1
+ES1,2025,25. Matchday,2026-02-22,Villarreal,Valencia,2:1
+ES1,2025,25. Matchday,2026-02-21,Real Sociedad,Real Oviedo,3:3
+ES1,2025,25. Matchday,2026-02-23,Alaves,Girona,2:2
+ES1,2025,25. Matchday,2026-02-20,Athletic Bilbao,Elche,2:1
+ES1,2025,25. Matchday,2026-02-21,Atletico Madrid,Espanyol,4:2
+ES1,2025,25. Matchday,2026-02-22,Barcelona,Levante,3:0
+ES1,2025,25. Matchday,2026-02-21,Real Betis,Rayo Vallecano,1:1
+ES1,2025,25. Matchday,2026-02-22,Celta Vigo,Mallorca,2:0
+ES1,2025,20. Matchday,2026-01-18,Getafe,Valencia,0:1
+ES1,2025,20. Matchday,2026-01-17,Osasuna,Real Oviedo,3:2
+ES1,2025,20. Matchday,2026-01-18,Atletico Madrid,Alaves,1:0
+ES1,2025,20. Matchday,2026-01-17,Mallorca,Athletic Bilbao,3:2
+ES1,2025,20. Matchday,2026-01-18,Real Sociedad,Barcelona,2:1
+ES1,2025,20. Matchday,2026-01-17,Real Madrid,Levante,2:0
+ES1,2025,20. Matchday,2026-01-17,Real Betis,Villarreal,2:0
+ES1,2025,20. Matchday,2026-01-18,Celta Vigo,Rayo Vallecano,3:0
+ES1,2025,20. Matchday,2026-01-19,Elche,Sevilla,2:2
+ES1,2025,20. Matchday,2026-01-16,Espanyol,Girona,0:2
+ES1,2025,24. Matchday,2026-02-15,Real Oviedo,Athletic Bilbao,1:2
+ES1,2025,24. Matchday,2026-02-15,Rayo Vallecano,Atletico Madrid,3:0
+ES1,2025,24. Matchday,2026-02-16,Girona,Barcelona,2:1
+ES1,2025,24. Matchday,2026-02-15,Mallorca,Real Betis,1:2
+ES1,2025,24. Matchday,2026-02-14,Espanyol,Celta Vigo,2:2
+ES1,2025,24. Matchday,2026-02-13,Elche,Osasuna,0:0
+ES1,2025,24. Matchday,2026-02-14,Getafe,Villarreal,2:1
+ES1,2025,24. Matchday,2026-02-15,Levante,Valencia,0:2
+ES1,2025,24. Matchday,2026-02-14,Real Madrid,Real Sociedad,4:1
+ES1,2025,24. Matchday,2026-02-14,Sevilla,Alaves,1:1
+ES1,2025,30. Matchday,2026-04-05,Valencia,Celta Vigo,2:3
+ES1,2025,30. Matchday,2026-04-03,Rayo Vallecano,Elche,1:0
+ES1,2025,30. Matchday,2026-04-04,Real Sociedad,Levante,2:0
+ES1,2025,30. Matchday,2026-04-05,Alaves,Osasuna,2:2
+ES1,2025,30. Matchday,2026-04-04,Atletico Madrid,Barcelona,1:2
+ES1,2025,30. Matchday,2026-04-04,Real Betis,Espanyol,0:0
+ES1,2025,30. Matchday,2026-04-06,Girona,Villarreal,1:0
+ES1,2025,30. Matchday,2026-04-04,Mallorca,Real Madrid,2:1
+ES1,2025,30. Matchday,2026-04-05,Real Oviedo,Sevilla,1:0
+ES1,2025,30. Matchday,2026-04-05,Getafe,Athletic Bilbao,2:0
+ES1,2025,29. Matchday,2026-03-22,Real Madrid,Atletico Madrid,3:2
+ES1,2025,29. Matchday,2026-03-21,Osasuna,Girona,1:0
+ES1,2025,29. Matchday,2026-03-20,Villarreal,Real Sociedad,3:1
+ES1,2025,29. Matchday,2026-03-22,Athletic Bilbao,Real Betis,2:1
+ES1,2025,29. Matchday,2026-03-22,Barcelona,Rayo Vallecano,1:0
+ES1,2025,29. Matchday,2026-03-21,Elche,Mallorca,2:1
+ES1,2025,29. Matchday,2026-03-21,Espanyol,Getafe,1:2
+ES1,2025,29. Matchday,2026-03-21,Levante,Real Oviedo,4:2
+ES1,2025,29. Matchday,2026-03-21,Sevilla,Valencia,0:2
+ES1,2025,29. Matchday,2026-03-22,Celta Vigo,Alaves,3:4
+ES1,2025,28. Matchday,2026-03-14,Real Madrid,Elche,4:1
+ES1,2025,28. Matchday,2026-03-15,Mallorca,Espanyol,2:1
+ES1,2025,28. Matchday,2026-03-16,Rayo Vallecano,Levante,1:1
+ES1,2025,28. Matchday,2026-03-13,Alaves,Villarreal,1:1
+ES1,2025,28. Matchday,2026-03-15,Real Sociedad,Osasuna,3:1
+ES1,2025,28. Matchday,2026-03-14,Atletico Madrid,Getafe,1:0
+ES1,2025,28. Matchday,2026-03-15,Barcelona,Sevilla,5:2
+ES1,2025,28. Matchday,2026-03-15,Real Betis,Celta Vigo,1:1
+ES1,2025,28. Matchday,2026-03-14,Real Oviedo,Valencia,1:0
+ES1,2025,28. Matchday,2026-03-14,Girona,Athletic Bilbao,3:0
+ES1,2025,33. Matchday,2026-04-22,Real Sociedad,Getafe,0:1
+ES1,2025,33. Matchday,2026-04-21,Athletic Bilbao,Osasuna,1:0
+ES1,2025,33. Matchday,2026-04-22,Barcelona,Celta Vigo,1:0
+ES1,2025,33. Matchday,2026-04-23,Levante,Sevilla,2:0
+ES1,2025,33. Matchday,2026-04-21,Mallorca,Valencia,1:1
+ES1,2025,33. Matchday,2026-04-23,Real Oviedo,Villarreal,1:1
+ES1,2025,33. Matchday,2026-04-21,Real Madrid,Alaves,2:1
+ES1,2025,33. Matchday,2026-04-22,Elche,Atletico Madrid,3:2
+ES1,2025,33. Matchday,2026-04-21,Girona,Real Betis,2:3
+ES1,2025,33. Matchday,2026-04-23,Rayo Vallecano,Espanyol,1:0
+ES1,2025,31. Matchday,2026-04-13,Levante,Getafe,1:0
+ES1,2025,31. Matchday,2026-04-10,Real Madrid,Girona,1:1
+ES1,2025,31. Matchday,2026-04-12,Athletic Bilbao,Villarreal,1:2
+ES1,2025,31. Matchday,2026-04-11,Barcelona,Espanyol,4:1
+ES1,2025,31. Matchday,2026-04-12,Celta Vigo,Real Oviedo,0:3
+ES1,2025,31. Matchday,2026-04-11,Elche,Valencia,1:0
+ES1,2025,31. Matchday,2026-04-12,Mallorca,Rayo Vallecano,3:0
+ES1,2025,31. Matchday,2026-04-11,Real Sociedad,Alaves,3:3
+ES1,2025,31. Matchday,2026-04-11,Sevilla,Atletico Madrid,2:1
+ES1,2025,31. Matchday,2026-04-12,Osasuna,Real Betis,1:1
+ES1,2025,27. Matchday,2026-03-07,Levante,Girona,1:1
+ES1,2025,27. Matchday,2026-03-07,Osasuna,Mallorca,2:2
+ES1,2025,27. Matchday,2026-03-08,Sevilla,Rayo Vallecano,1:1
+ES1,2025,27. Matchday,2026-03-07,Athletic Bilbao,Barcelona,0:1
+ES1,2025,27. Matchday,2026-03-07,Atletico Madrid,Real Sociedad,3:2
+ES1,2025,27. Matchday,2026-03-06,Celta Vigo,Real Madrid,1:2
+ES1,2025,27. Matchday,2026-03-09,Espanyol,Real Oviedo,1:1
+ES1,2025,27. Matchday,2026-03-08,Valencia,Alaves,3:2
+ES1,2025,27. Matchday,2026-03-08,Getafe,Real Betis,2:0
+ES1,2025,27. Matchday,2026-03-08,Villarreal,Elche,2:1
+ES1,2025,36. Matchday,2026-05-13,Alaves,Barcelona,1:0
+ES1,2025,36. Matchday,2026-05-12,Real Betis,Elche,2:1
+ES1,2025,36. Matchday,2026-05-12,Celta Vigo,Levante,2:3
+ES1,2025,36. Matchday,2026-05-13,Getafe,Mallorca,3:1
+ES1,2025,36. Matchday,2026-05-14,Girona,Real Sociedad,1:1
+ES1,2025,36. Matchday,2026-05-13,Espanyol,Athletic Bilbao,2:0
+ES1,2025,36. Matchday,2026-05-12,Osasuna,Atletico Madrid,1:2
+ES1,2025,36. Matchday,2026-05-14,Valencia,Rayo Vallecano,1:1
+ES1,2025,36. Matchday,2026-05-13,Villarreal,Sevilla,2:3
+ES1,2025,36. Matchday,2026-05-14,Real Madrid,Real Oviedo,2:0
+ES1,2025,32. Matchday,2026-04-25,Valencia,Girona,2:1
+ES1,2025,32. Matchday,2026-04-25,Alaves,Mallorca,2:1
+ES1,2025,32. Matchday,2026-04-24,Real Betis,Real Madrid,1:1
+ES1,2025,32. Matchday,2026-04-27,Espanyol,Levante,0:0
+ES1,2025,32. Matchday,2026-04-26,Osasuna,Sevilla,2:1
+ES1,2025,32. Matchday,2026-04-26,Rayo Vallecano,Real Sociedad,3:3
+ES1,2025,32. Matchday,2026-04-25,Atletico Madrid,Athletic Bilbao,3:2
+ES1,2025,32. Matchday,2026-04-25,Getafe,Barcelona,0:2
+ES1,2025,32. Matchday,2026-04-26,Villarreal,Celta Vigo,2:1
+ES1,2025,32. Matchday,2026-04-26,Real Oviedo,Elche,1:2
+ES1,2025,37. Matchday,2026-05-17,Athletic Bilbao,Celta Vigo,1:1
+ES1,2025,37. Matchday,2026-05-17,Atletico Madrid,Girona,1:0
+ES1,2025,37. Matchday,2026-05-17,Barcelona,Real Betis,3:1
+ES1,2025,37. Matchday,2026-05-17,Elche,Getafe,1:0
+ES1,2025,37. Matchday,2026-05-17,Levante,Mallorca,2:0
+ES1,2025,37. Matchday,2026-05-17,Rayo Vallecano,Villarreal,2:0
+ES1,2025,37. Matchday,2026-05-17,Real Sociedad,Valencia,3:4
+ES1,2025,37. Matchday,2026-05-17,Real Oviedo,Alaves,0:1
+ES1,2025,37. Matchday,2026-05-17,Osasuna,Espanyol,1:2
+ES1,2025,37. Matchday,2026-05-17,Sevilla,Real Madrid,0:1
+ES1,2025,34. Matchday,2026-05-02,Villarreal,Levante,5:1
+ES1,2025,34. Matchday,2026-05-04,Sevilla,Real Sociedad,1:0
+ES1,2025,34. Matchday,2026-05-02,Alaves,Athletic Bilbao,2:4
+ES1,2025,34. Matchday,2026-05-03,Real Betis,Real Oviedo,3:0
+ES1,2025,34. Matchday,2026-05-03,Celta Vigo,Elche,3:1
+ES1,2025,34. Matchday,2026-05-03,Espanyol,Real Madrid,0:2
+ES1,2025,34. Matchday,2026-05-03,Getafe,Rayo Vallecano,0:2
+ES1,2025,34. Matchday,2026-05-01,Girona,Mallorca,0:1
+ES1,2025,34. Matchday,2026-05-02,Valencia,Atletico Madrid,0:2
+ES1,2025,34. Matchday,2026-05-02,Osasuna,Barcelona,1:2
+ES1,2025,35. Matchday,2026-05-11,Rayo Vallecano,Girona,1:1
+ES1,2025,35. Matchday,2026-05-10,Athletic Bilbao,Valencia,0:1
+ES1,2025,35. Matchday,2026-05-09,Atletico Madrid,Celta Vigo,0:1
+ES1,2025,35. Matchday,2026-05-10,Barcelona,Real Madrid,2:0
+ES1,2025,35. Matchday,2026-05-08,Levante,Osasuna,3:2
+ES1,2025,35. Matchday,2026-05-10,Mallorca,Villarreal,1:1
+ES1,2025,35. Matchday,2026-05-09,Elche,Alaves,1:1
+ES1,2025,35. Matchday,2026-05-09,Real Sociedad,Real Betis,2:2
+ES1,2025,35. Matchday,2026-05-09,Sevilla,Espanyol,2:1
+ES1,2025,35. Matchday,2026-05-10,Real Oviedo,Getafe,0:0
+CL,2025,Group Stage,2025-11-05,Inter,Kairat,2:1
+CL,2025,Group Stage,2025-10-22,Real Madrid,Juventus,1:0
+CL,2025,Group Stage,2026-01-28,Napoli,Chelsea,2:3
+CL,2025,Group Stage,2025-11-05,Man City,Dortmund,4:1
+CL,2025,Group Stage,2025-11-05,Ajax,Galatasaray,0:3
+CL,2025,Group Stage,2026-01-28,Athletic Bilbao,Sporting CP,2:3
+CL,2025,Group Stage,2025-11-25,Ajax,Benfica,0:2
+CL,2025,Group Stage,2025-11-25,Galatasaray,Union SG,0:1
+CL,2025,Group Stage,2025-10-22,Bayern Munich,Club Brugge,4:0
+CL,2025,Group Stage,2025-12-09,PSV,Atletico Madrid,2:3
+CL,2025,Group Stage,2026-01-28,PSV,Bayern Munich,1:2
+CL,2025,Group Stage,2025-11-04,Liverpool,Real Madrid,1:0
+CL,2025,Group Stage,2025-11-04,Tottenham,Copenhagen,4:0
+CL,2025,Group Stage,2025-12-09,Tottenham,Slavia Prague,3:0
+CL,2025,Group Stage,2025-11-04,PSG,Bayern Munich,1:2
+CL,2025,Group Stage,2026-01-21,Galatasaray,Atletico Madrid,1:1
+CL,2025,Group Stage,2025-12-10,Villarreal,Copenhagen,2:3
+CL,2025,Group Stage,2026-01-28,Club Brugge,Marseille,3:0
+CL,2025,Group Stage,2025-12-10,Club Brugge,Arsenal,0:3
+CL,2025,Group Stage,2025-11-05,Club Brugge,Barcelona,3:3
+CL,2025,Group Stage,2025-09-30,Inter,Slavia Prague,3:0
+CL,2025,Group Stage,2026-01-28,Eintracht Frankfurt,Tottenham,0:2
+CL,2025,Group Stage,2025-09-30,Chelsea,Benfica,1:0
+CL,2025,Group Stage,2025-10-22,Chelsea,Ajax,5:1
+CL,2025,Group Stage,2025-11-26,Eintracht Frankfurt,Atalanta,0:3
+CL,2025,Group Stage,2025-10-22,Eintracht Frankfurt,Liverpool,1:5
+CL,2025,Group Stage,2025-12-10,Juventus,Pafos,2:0
+CL,2025,Group Stage,2025-11-04,Juventus,Sporting CP,1:1
+CL,2025,Group Stage,2025-10-01,Dortmund,Athletic Bilbao,4:1
+CL,2025,Group Stage,2025-10-01,Barcelona,PSG,1:2
+CL,2025,Group Stage,2026-01-21,Juventus,Benfica,2:0
+CL,2025,Group Stage,2025-10-21,Barcelona,Olympiacos,6:1
+CL,2025,Group Stage,2025-11-25,Napoli,Qarabag,2:0
+CL,2025,Group Stage,2026-01-28,Monaco,Juventus,0:0
+CL,2025,Group Stage,2025-10-21,Arsenal,Atletico Madrid,4:0
+CL,2025,Group Stage,2025-10-01,Arsenal,Olympiacos,2:0
+CL,2025,Group Stage,2025-11-26,Copenhagen,Kairat,3:2
+CL,2025,Group Stage,2025-10-21,Bayer Leverkusen,PSG,2:7
+CL,2025,Group Stage,2026-01-20,Copenhagen,Napoli,1:1
+CL,2025,Group Stage,2025-10-01,Bayer Leverkusen,PSV,1:1
+CL,2025,Group Stage,2025-11-25,Marseille,Newcastle,2:1
+CL,2025,Group Stage,2025-11-05,Marseille,Atalanta,0:1
+CL,2025,Group Stage,2025-09-30,Atletico Madrid,Eintracht Frankfurt,5:1
+CL,2025,Group Stage,2026-01-21,Marseille,Liverpool,0:3
+CL,2025,Group Stage,2025-11-04,Atletico Madrid,Union SG,3:1
+CL,2025,Group Stage,2025-11-04,Fotballklubben Bodø/Glimt,Monaco,0:1
+CL,2025,Group Stage,2025-11-05,Benfica,Bayer Leverkusen,0:1
+CL,2025,Group Stage,2025-11-25,Fotballklubben Bodø/Glimt,Juventus,2:3
+CL,2025,Group Stage,2026-01-20,Fotballklubben Bodø/Glimt,Man City,3:1
+CL,2025,Group Stage,2025-11-25,Slavia Prague,Athletic Bilbao,0:0
+CL,2025,Group Stage,2025-09-30,Atalanta,Club Brugge,2:1
+CL,2025,Group Stage,2025-11-04,Slavia Prague,Arsenal,0:3
+CL,2025,Group Stage,2025-10-21,Villarreal,Man City,0:2
+CL,2025,Group Stage,2025-10-01,Villarreal,Juventus,2:2
+CL,2025,Group Stage,2026-01-21,Slavia Prague,Barcelona,2:4
+CL,2025,Group Stage,2025-11-04,Olympiacos,PSV,1:1
+CL,2025,Group Stage,2025-10-22,Sporting CP,Marseille,2:1
+CL,2025,Group Stage,2026-01-20,Olympiacos,Bayer Leverkusen,2:0
+CL,2025,Group Stage,2026-01-20,Tottenham,Dortmund,2:0
+CL,2025,Group Stage,2025-11-26,Olympiacos,Real Madrid,3:4
+CL,2025,Group Stage,2026-01-28,Dortmund,Inter,0:2
+CL,2025,Group Stage,2025-12-10,Athletic Bilbao,PSG,0:0
+CL,2025,Group Stage,2026-01-21,Chelsea,Pafos,1:0
+CL,2025,Group Stage,2025-11-25,Chelsea,Barcelona,3:0
+CL,2025,Group Stage,2025-11-05,Qarabag,Chelsea,2:2
+CL,2025,Group Stage,2026-01-20,Inter,Arsenal,1:3
+CL,2025,Group Stage,2025-10-22,Monaco,Tottenham,0:0
+CL,2025,Group Stage,2025-12-09,Inter,Liverpool,0:1
+CL,2025,Group Stage,2026-01-28,PSG,Newcastle,1:1
+CL,2025,Group Stage,2025-11-26,PSG,Tottenham,5:3
+CL,2025,Group Stage,2025-10-21,PSV,Napoli,6:2
+CL,2025,Group Stage,2025-12-09,Union SG,Marseille,2:3
+CL,2025,Group Stage,2025-12-10,Real Madrid,Man City,1:2
+CL,2025,Group Stage,2025-11-26,Liverpool,PSV,1:4
+CL,2025,Group Stage,2026-01-21,Bayern Munich,Union SG,2:0
+CL,2025,Group Stage,2025-10-01,Napoli,Sporting CP,2:1
+CL,2025,Group Stage,2025-12-09,Bayern Munich,Sporting CP,3:1
+CL,2025,Group Stage,2025-11-04,Napoli,Eintracht Frankfurt,0:0
+CL,2025,Group Stage,2026-01-28,Man City,Galatasaray,2:0
+CL,2025,Group Stage,2025-11-25,Man City,Bayer Leverkusen,0:2
+CL,2025,Group Stage,2025-12-09,Monaco,Galatasaray,1:0
+CL,2025,Group Stage,2026-01-28,Union SG,Atalanta,1:0
+CL,2025,Group Stage,2026-01-20,Real Madrid,Monaco,6:1
+CL,2025,Group Stage,2026-01-20,Sporting CP,PSG,2:1
+CL,2025,Group Stage,2025-09-30,Fotballklubben Bodø/Glimt,Tottenham,2:2
+CL,2025,Group Stage,2026-01-28,Liverpool,Qarabag,6:0
+CL,2025,Group Stage,2026-01-20,Villarreal,Ajax,1:2
+CL,2025,Group Stage,2025-09-30,Marseille,Ajax,4:0
+CL,2025,Group Stage,2026-01-21,Atalanta,Athletic Bilbao,2:3
+CL,2025,Group Stage,2025-10-21,Copenhagen,Dortmund,2:4
+CL,2025,Group Stage,2026-01-21,Qarabag,Eintracht Frankfurt,3:2
+CL,2025,Group Stage,2025-12-09,Atalanta,Chelsea,2:1
+CL,2025,Group Stage,2025-10-01,Monaco,Man City,2:2
+CL,2025,Group Stage,2025-11-26,Sporting CP,Club Brugge,3:0
+CL,2025,Group Stage,2025-12-10,Benfica,Napoli,2:0
+CL,2025,Group Stage,2025-09-30,Galatasaray,Liverpool,1:0
+CL,2025,Group Stage,2025-10-22,Galatasaray,Fotballklubben Bodø/Glimt,3:1
+CL,2025,Group Stage,2026-01-28,Benfica,Real Madrid,4:2
+CL,2025,Group Stage,2025-10-21,Union SG,Inter,0:4
+CL,2025,Group Stage,2025-11-25,Dortmund,Villarreal,4:0
+CL,2025,Group Stage,2026-01-28,Atletico Madrid,Fotballklubben Bodø/Glimt,1:2
+CL,2025,Group Stage,2025-10-01,Union SG,Newcastle,0:4
+CL,2025,Group Stage,2025-11-26,Atletico Madrid,Inter,2:1
+CL,2025,Group Stage,2025-12-10,Bayer Leverkusen,Newcastle,2:2
+CL,2025,Group Stage,2026-01-28,Bayer Leverkusen,Villarreal,3:0
+CL,2025,Group Stage,2025-10-01,Qarabag,Copenhagen,2:0
+CL,2025,Group Stage,2026-01-28,Arsenal,Kairat,3:2
+CL,2025,Group Stage,2025-11-26,Arsenal,Bayern Munich,3:1
+CL,2025,Group Stage,2025-10-22,Athletic Bilbao,Qarabag,3:1
+CL,2025,Group Stage,2025-12-10,Qarabag,Ajax,2:4
+CL,2025,Group Stage,2025-10-21,Newcastle,Benfica,3:0
+CL,2025,Group Stage,2025-12-09,Barcelona,Eintracht Frankfurt,2:1
+CL,2025,Group Stage,2025-12-10,Dortmund,Fotballklubben Bodø/Glimt,2:2
+CL,2025,Group Stage,2025-09-30,Pafos,Bayern Munich,1:5
+CL,2025,Group Stage,2026-01-28,Barcelona,Copenhagen,4:1
+CL,2025,Group Stage,2025-10-22,Atalanta,Slavia Prague,0:0
+CL,2025,Group Stage,2025-09-30,Kairat,Real Madrid,0:5
+CL,2025,Group Stage,2025-11-05,Newcastle,Athletic Bilbao,2:0
+CL,2025,Group Stage,2025-10-21,Kairat,Pafos,0:0
+CL,2025,Group Stage,2025-11-05,Pafos,Villarreal,1:0
+CL,2025,Group Stage,2026-01-28,Ajax,Olympiacos,1:2
+CL,2025,Group Stage,2025-11-26,Pafos,Monaco,2:2
+CL,2025,Group Stage,2026-01-21,Newcastle,PSV,3:0
+CL,2025,Group Stage,2025-09-16,Juventus,Dortmund,4:4
+CL,2025,Group Stage,2025-09-17,Ajax,Inter,0:2
+CL,2025,Group Stage,2025-09-18,Man City,Napoli,2:0
+CL,2025,Group Stage,2025-09-17,PSG,Atalanta,4:0
+CL,2025,Group Stage,2025-09-16,Athletic Bilbao,Arsenal,0:2
+CL,2025,Group Stage,2025-09-16,PSV,Union SG,1:3
+CL,2025,Group Stage,2025-09-16,Real Madrid,Marseille,2:1
+CL,2025,Group Stage,2025-09-16,Benfica,Qarabag,2:3
+CL,2025,Group Stage,2025-09-16,Tottenham,Villarreal,1:0
+CL,2025,Group Stage,2025-09-17,Olympiacos,Pafos,0:0
+CL,2025,Group Stage,2025-09-17,Slavia Prague,Fotballklubben Bodø/Glimt,2:2
+CL,2025,Group Stage,2025-09-17,Bayern Munich,Chelsea,3:1
+CL,2025,Group Stage,2025-09-17,Liverpool,Atletico Madrid,3:2
+CL,2025,Group Stage,2025-09-18,Club Brugge,Monaco,4:1
+CL,2025,Group Stage,2025-09-18,Copenhagen,Bayer Leverkusen,2:2
+CL,2025,Group Stage,2025-09-18,Eintracht Frankfurt,Galatasaray,5:1
+CL,2025,Group Stage,2025-09-18,Sporting CP,Kairat,4:1
+CL,2025,Group Stage,2025-09-18,Newcastle,Barcelona,1:2
+CL,2025,Group Stage,2025-12-09,Kairat,Olympiacos,0:1
+CL,2025,Group Stage,2026-01-28,Pafos,Slavia Prague,4:1
+CL,2025,Group Stage,2026-01-20,Kairat,Club Brugge,1:4
+CL,2025,intermediate stage 1st leg,2026-02-17,Monaco,PSG,2:3
+CL,2025,intermediate stage 1st leg,2026-02-17,Galatasaray,Juventus,5:2
+CL,2025,intermediate stage 1st leg,2026-02-17,Benfica,Real Madrid,0:1
+CL,2025,intermediate stage 1st leg,2026-02-17,Dortmund,Atalanta,2:0
+CL,2025,intermediate stage 1st leg,2026-02-18,Qarabag,Newcastle,1:6
+CL,2025,intermediate stage 1st leg,2026-02-18,Club Brugge,Atletico Madrid,3:3
+CL,2025,intermediate stage 1st leg,2026-02-18,Fotballklubben Bodø/Glimt,Inter,3:1
+CL,2025,intermediate stage 1st leg,2026-02-18,Olympiacos,Bayer Leverkusen,0:2
+CL,2025,intermediate stage 2nd leg,2026-02-25,PSG,Monaco,2:2
+CL,2025,intermediate stage 2nd leg,2026-02-25,Juventus,Galatasaray,3:2
+CL,2025,intermediate stage 2nd leg,2026-02-25,Real Madrid,Benfica,2:1
+CL,2025,intermediate stage 2nd leg,2026-02-25,Atalanta,Dortmund,4:1
+CL,2025,intermediate stage 2nd leg,2026-02-24,Newcastle,Qarabag,3:2
+CL,2025,intermediate stage 2nd leg,2026-02-24,Atletico Madrid,Club Brugge,4:1
+CL,2025,intermediate stage 2nd leg,2026-02-24,Inter,Fotballklubben Bodø/Glimt,1:2
+CL,2025,intermediate stage 2nd leg,2026-02-24,Bayer Leverkusen,Olympiacos,0:0
+CL,2025,Last 16 1st Leg,2026-03-11,PSG,Chelsea,5:2
+CL,2025,Last 16 1st Leg,2026-03-10,Galatasaray,Liverpool,1:0
+CL,2025,Last 16 1st Leg,2026-03-11,Real Madrid,Man City,3:0
+CL,2025,Last 16 1st Leg,2026-03-10,Atalanta,Bayern Munich,1:6
+CL,2025,Last 16 1st Leg,2026-03-10,Newcastle,Barcelona,1:1
+CL,2025,Last 16 1st Leg,2026-03-10,Atletico Madrid,Tottenham,5:2
+CL,2025,Last 16 1st Leg,2026-03-11,Fotballklubben Bodø/Glimt,Sporting CP,3:0
+CL,2025,Last 16 1st Leg,2026-03-11,Bayer Leverkusen,Arsenal,1:1
+CL,2025,Last 16 2nd Leg,2026-03-17,Chelsea,PSG,0:3
+CL,2025,Last 16 2nd Leg,2026-03-18,Liverpool,Galatasaray,4:0
+CL,2025,Last 16 2nd Leg,2026-03-17,Man City,Real Madrid,1:2
+CL,2025,Last 16 2nd Leg,2026-03-18,Bayern Munich,Atalanta,4:1
+CL,2025,Last 16 2nd Leg,2026-03-18,Barcelona,Newcastle,7:2
+CL,2025,Last 16 2nd Leg,2026-03-18,Tottenham,Atletico Madrid,3:2
+CL,2025,Last 16 2nd Leg,2026-03-17,Sporting CP,Fotballklubben Bodø/Glimt,5:0
+CL,2025,Last 16 2nd Leg,2026-03-17,Arsenal,Bayer Leverkusen,2:0
+CL,2025,Quarter-Finals 1st Leg,2026-04-08,PSG,Liverpool,2:0
+CL,2025,Quarter-Finals 1st Leg,2026-04-07,Real Madrid,Bayern Munich,1:2
+CL,2025,Quarter-Finals 1st Leg,2026-04-08,Barcelona,Atletico Madrid,0:2
+CL,2025,Quarter-Finals 1st Leg,2026-04-07,Sporting CP,Arsenal,0:1
+CL,2025,Quarter-Finals 2nd Leg,2026-04-14,Liverpool,PSG,0:2
+CL,2025,Quarter-Finals 2nd Leg,2026-04-15,Bayern Munich,Real Madrid,4:3
+CL,2025,Quarter-Finals 2nd Leg,2026-04-14,Atletico Madrid,Barcelona,1:2
+CL,2025,Quarter-Finals 2nd Leg,2026-04-15,Arsenal,Sporting CP,0:0
+CL,2025,Semi-Finals 1st Leg,2026-04-28,PSG,Bayern Munich,5:4
+CL,2025,Semi-Finals 1st Leg,2026-04-29,Atletico Madrid,Arsenal,1:1
+CL,2025,Semi-Finals 2nd Leg,2026-05-06,Bayern Munich,PSG,1:1
+CL,2025,Semi-Finals 2nd Leg,2026-05-05,Arsenal,Atletico Madrid,1:0
