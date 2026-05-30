@@ -1,8 +1,8 @@
 {
   "Atalanta": {
     "primary_league": "IT1",
-    "elo": 1508.12,
-    "match_count": 49,
+    "elo": 1508.17,
+    "match_count": 50,
     "last_5_results": [],
     "last_5_home": [
       "L",
@@ -12,20 +12,20 @@
       "L"
     ],
     "last_5_away": [
-      "L",
       "W",
       "D",
       "L",
-      "W"
+      "W",
+      "D"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-22",
     "h2h_history": {},
     "is_top_five": true
   },
   "Cagliari": {
     "primary_league": "IT1",
-    "elo": 1393.23,
-    "match_count": 37,
+    "elo": 1418.7,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "L",
@@ -35,20 +35,20 @@
       "W"
     ],
     "last_5_away": [
+      "L",
+      "L",
+      "L",
       "D",
-      "L",
-      "L",
-      "L",
-      "D"
+      "W"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Como": {
     "primary_league": "IT1",
-    "elo": 1595.04,
-    "match_count": 37,
+    "elo": 1605.51,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
@@ -58,20 +58,20 @@
       "W"
     ],
     "last_5_away": [
-      "W",
       "D",
       "L",
       "W",
+      "W",
       "W"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Genoa": {
     "primary_league": "IT1",
-    "elo": 1424.3,
-    "match_count": 37,
+    "elo": 1407.22,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
@@ -81,20 +81,20 @@
       "L"
     ],
     "last_5_away": [
-      "W",
       "L",
       "W",
       "D",
-      "D"
+      "D",
+      "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
-  "Inter": {
+  "Inter Milan": {
     "primary_league": "IT1",
-    "elo": 1660.2,
-    "match_count": 47,
+    "elo": 1656.32,
+    "match_count": 48,
     "last_5_results": [],
     "last_5_home": [
       "D",
@@ -104,20 +104,20 @@
       "D"
     ],
     "last_5_away": [
-      "L",
       "D",
       "W",
       "D",
-      "W"
+      "W",
+      "D"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Juventus": {
     "primary_league": "IT1",
-    "elo": 1575.72,
-    "match_count": 47,
+    "elo": 1572.44,
+    "match_count": 48,
     "last_5_results": [],
     "last_5_home": [
       "D",
@@ -127,26 +127,26 @@
       "L"
     ],
     "last_5_away": [
-      "D",
       "W",
       "W",
       "D",
-      "W"
+      "W",
+      "D"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Milan": {
     "primary_league": "IT1",
-    "elo": 1546.0,
-    "match_count": 37,
+    "elo": 1520.53,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
-      "W",
       "L",
       "D",
+      "L",
       "L"
     ],
     "last_5_away": [
@@ -156,14 +156,14 @@
       "L",
       "W"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Roma": {
     "primary_league": "IT1",
-    "elo": 1589.93,
-    "match_count": 37,
+    "elo": 1597.27,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
@@ -175,18 +175,18 @@
     "last_5_away": [
       "L",
       "L",
-      "L",
+      "W",
       "W",
       "W"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Sassuolo": {
     "primary_league": "IT1",
-    "elo": 1454.97,
-    "match_count": 37,
+    "elo": 1437.98,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "L",
@@ -196,20 +196,20 @@
       "L"
     ],
     "last_5_away": [
-      "L",
       "D",
       "L",
       "D",
+      "L",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Udinese": {
     "primary_league": "IT1",
-    "elo": 1475.13,
-    "match_count": 37,
+    "elo": 1463.27,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "L",
@@ -219,26 +219,26 @@
       "L"
     ],
     "last_5_away": [
-      "D",
       "W",
       "W",
       "D",
-      "W"
+      "W",
+      "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Bologna": {
     "primary_league": "IT1",
-    "elo": 1477.87,
-    "match_count": 37,
+    "elo": 1481.75,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "L",
-      "L",
       "W",
       "L",
+      "D",
       "D"
     ],
     "last_5_away": [
@@ -248,21 +248,21 @@
       "W",
       "W"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Cremonese": {
     "primary_league": "IT1",
-    "elo": 1352.8,
-    "match_count": 37,
+    "elo": 1342.33,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "L",
-      "L",
       "D",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "last_5_away": [
       "L",
@@ -271,21 +271,21 @@
       "L",
       "W"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Lazio": {
     "primary_league": "IT1",
-    "elo": 1485.47,
-    "match_count": 37,
+    "elo": 1490.92,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
-      "W",
       "D",
       "D",
-      "L"
+      "L",
+      "W"
     ],
     "last_5_away": [
       "W",
@@ -294,21 +294,21 @@
       "W",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Lecce": {
     "primary_league": "IT1",
-    "elo": 1381.35,
-    "match_count": 37,
+    "elo": 1398.43,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
-      "L",
       "W",
       "L",
       "D",
-      "L"
+      "L",
+      "W"
     ],
     "last_5_away": [
       "L",
@@ -317,21 +317,21 @@
       "W",
       "W"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Napoli": {
     "primary_league": "IT1",
-    "elo": 1542.55,
-    "match_count": 45,
+    "elo": 1554.41,
+    "match_count": 46,
     "last_5_results": [],
     "last_5_home": [
       "W",
-      "W",
       "L",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "last_5_away": [
       "W",
@@ -340,21 +340,21 @@
       "D",
       "W"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Parma": {
     "primary_league": "IT1",
-    "elo": 1413.86,
-    "match_count": 37,
+    "elo": 1430.85,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
-      "D",
       "L",
       "D",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "last_5_away": [
       "L",
@@ -363,14 +363,14 @@
       "L",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Pisa": {
     "primary_league": "IT1",
-    "elo": 1238.73,
-    "match_count": 37,
+    "elo": 1233.28,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
@@ -386,21 +386,21 @@
       "L",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Torino": {
     "primary_league": "IT1",
-    "elo": 1417.46,
-    "match_count": 37,
+    "elo": 1420.74,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
       "W",
-      "W",
       "D",
-      "W"
+      "W",
+      "D"
     ],
     "last_5_away": [
       "L",
@@ -409,19 +409,19 @@
       "L",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Fiorentina": {
     "primary_league": "IT1",
-    "elo": 1469.69,
-    "match_count": 37,
+    "elo": 1469.64,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "D",
-      "D",
       "W",
+      "D",
       "D",
       "D"
     ],
@@ -432,20 +432,20 @@
       "L",
       "W"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-22",
     "h2h_history": {},
     "is_top_five": true
   },
-  "Verona": {
+  "Hellas Verona": {
     "primary_league": "IT1",
-    "elo": 1280.41,
-    "match_count": 37,
+    "elo": 1273.07,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "L",
       "L",
-      "L",
       "D",
+      "L",
       "L"
     ],
     "last_5_away": [
@@ -455,20 +455,20 @@
       "D",
       "D"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Liverpool": {
     "primary_league": "GB1",
-    "elo": 1526.1,
-    "match_count": 49,
+    "elo": 1525.13,
+    "match_count": 50,
     "last_5_results": [],
     "last_5_home": [
       "W",
-      "W",
       "L",
       "W",
+      "D",
       "D"
     ],
     "last_5_away": [
@@ -478,14 +478,14 @@
       "L",
       "L"
     ],
-    "last_match_date": "2026-05-15",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Aston Villa": {
     "primary_league": "GB1",
-    "elo": 1546.35,
-    "match_count": 37,
+    "elo": 1570.71,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "L",
@@ -496,25 +496,25 @@
     ],
     "last_5_away": [
       "L",
-      "L",
       "D",
       "L",
-      "D"
+      "D",
+      "W"
     ],
-    "last_match_date": "2026-05-15",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Nottingham Forest": {
     "primary_league": "GB1",
-    "elo": 1517.95,
-    "match_count": 37,
+    "elo": 1519.52,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
-      "L",
       "D",
       "D",
       "W",
+      "D",
       "D"
     ],
     "last_5_away": [
@@ -524,21 +524,21 @@
       "W",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Brighton": {
     "primary_league": "GB1",
-    "elo": 1545.93,
-    "match_count": 37,
+    "elo": 1528.25,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
-      "W",
       "L",
       "W",
       "W",
-      "W"
+      "W",
+      "L"
     ],
     "last_5_away": [
       "W",
@@ -547,21 +547,21 @@
       "L",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Sunderland": {
     "primary_league": "GB1",
-    "elo": 1507.94,
-    "match_count": 37,
+    "elo": 1520.98,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "L",
-      "L",
       "W",
       "L",
-      "D"
+      "D",
+      "W"
     ],
     "last_5_away": [
       "W",
@@ -570,37 +570,37 @@
       "D",
       "W"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Tottenham": {
     "primary_league": "GB1",
-    "elo": 1467.49,
-    "match_count": 46,
+    "elo": 1468.84,
+    "match_count": 48,
     "last_5_results": [],
     "last_5_home": [
-      "L",
       "W",
       "L",
       "D",
-      "D"
-    ],
-    "last_5_away": [
-      "L",
       "D",
-      "L",
-      "W",
       "W"
     ],
-    "last_match_date": "2026-05-11",
+    "last_5_away": [
+      "D",
+      "L",
+      "W",
+      "W",
+      "L"
+    ],
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Wolves": {
     "primary_league": "GB1",
-    "elo": 1347.57,
-    "match_count": 37,
+    "elo": 1347.91,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
@@ -610,43 +610,43 @@
       "D"
     ],
     "last_5_away": [
-      "L",
       "D",
       "L",
       "L",
-      "L"
+      "L",
+      "D"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Chelsea": {
     "primary_league": "GB1",
-    "elo": 1450.92,
-    "match_count": 46,
+    "elo": 1453.67,
+    "match_count": 48,
     "last_5_results": [],
     "last_5_home": [
       "L",
       "L",
       "L",
       "L",
-      "L"
+      "W"
     ],
     "last_5_away": [
-      "W",
       "L",
       "L",
       "L",
-      "D"
+      "D",
+      "L"
     ],
-    "last_match_date": "2026-05-09",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
-  "Man Utd": {
+  "Manchester United": {
     "primary_league": "GB1",
-    "elo": 1655.02,
-    "match_count": 37,
+    "elo": 1672.7,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
@@ -656,20 +656,20 @@
       "W"
     ],
     "last_5_away": [
-      "W",
       "L",
       "D",
       "W",
-      "D"
+      "D",
+      "W"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Leeds United": {
     "primary_league": "GB1",
-    "elo": 1550.8,
-    "match_count": 37,
+    "elo": 1524.83,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "L",
@@ -680,26 +680,26 @@
     ],
     "last_5_away": [
       "D",
-      "D",
       "W",
       "D",
-      "D"
+      "D",
+      "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "West Ham": {
     "primary_league": "GB1",
-    "elo": 1447.39,
-    "match_count": 37,
+    "elo": 1473.36,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "D",
-      "D",
       "W",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "last_5_away": [
       "W",
@@ -708,14 +708,14 @@
       "L",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
-  "Newcastle": {
+  "Newcastle United": {
     "primary_league": "GB1",
-    "elo": 1526.04,
-    "match_count": 49,
+    "elo": 1505.63,
+    "match_count": 50,
     "last_5_results": [],
     "last_5_home": [
       "D",
@@ -725,50 +725,50 @@
       "W"
     ],
     "last_5_away": [
-      "W",
       "L",
       "L",
       "L",
-      "D"
+      "D",
+      "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
-  "Man City": {
+  "Manchester City": {
     "primary_league": "GB1",
-    "elo": 1670.27,
-    "match_count": 46,
+    "elo": 1645.4,
+    "match_count": 48,
     "last_5_results": [],
     "last_5_home": [
-      "D",
       "L",
       "W",
       "W",
-      "W"
+      "W",
+      "L"
     ],
     "last_5_away": [
-      "L",
       "D",
       "W",
       "W",
+      "D",
       "D"
     ],
-    "last_match_date": "2026-05-13",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Fulham": {
     "primary_league": "GB1",
-    "elo": 1495.66,
-    "match_count": 37,
+    "elo": 1516.07,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
-      "W",
       "L",
       "W",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "last_5_away": [
       "D",
@@ -777,14 +777,14 @@
       "L",
       "D"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Everton": {
     "primary_league": "GB1",
-    "elo": 1496.08,
-    "match_count": 37,
+    "elo": 1478.94,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
@@ -794,43 +794,43 @@
       "L"
     ],
     "last_5_away": [
-      "W",
       "L",
       "D",
       "L",
-      "D"
+      "D",
+      "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Bournemouth": {
     "primary_league": "GB1",
-    "elo": 1612.47,
-    "match_count": 36,
+    "elo": 1611.41,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "D",
       "D",
       "D",
-      "D",
-      "W"
+      "W",
+      "D"
     ],
     "last_5_away": [
       "D",
-      "D",
       "W",
       "W",
-      "W"
+      "W",
+      "D"
     ],
-    "last_match_date": "2026-05-09",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Arsenal": {
     "primary_league": "GB1",
-    "elo": 1744.62,
-    "match_count": 51,
+    "elo": 1751.49,
+    "match_count": 52,
     "last_5_results": [],
     "last_5_home": [
       "D",
@@ -840,20 +840,20 @@
       "W"
     ],
     "last_5_away": [
-      "D",
       "W",
       "L",
       "D",
+      "W",
       "W"
     ],
-    "last_match_date": "2026-05-18",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Brentford": {
     "primary_league": "GB1",
-    "elo": 1532.44,
-    "match_count": 37,
+    "elo": 1533.41,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "D",
@@ -863,26 +863,26 @@
       "D"
     ],
     "last_5_away": [
-      "W",
       "D",
       "D",
       "L",
-      "L"
+      "L",
+      "D"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Burnley": {
     "primary_league": "GB1",
-    "elo": 1319.45,
-    "match_count": 37,
+    "elo": 1319.11,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
-      "L",
       "D",
       "L",
       "L",
+      "D",
       "D"
     ],
     "last_5_away": [
@@ -892,21 +892,21 @@
       "L",
       "L"
     ],
-    "last_match_date": "2026-05-18",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Crystal Palace": {
     "primary_league": "GB1",
-    "elo": 1466.97,
-    "match_count": 37,
+    "elo": 1460.1,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
-      "W",
       "D",
       "W",
       "D",
-      "D"
+      "D",
+      "L"
     ],
     "last_5_away": [
       "W",
@@ -915,7 +915,7 @@
       "L",
       "D"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
@@ -1011,7 +1011,7 @@
     "h2h_history": {},
     "is_top_five": true
   },
-  "Mainz": {
+  "Mainz 05": {
     "primary_league": "L1",
     "elo": 1458.7,
     "match_count": 34,
@@ -1126,7 +1126,7 @@
     "h2h_history": {},
     "is_top_five": true
   },
-  "Dortmund": {
+  "Borussia Dortmund": {
     "primary_league": "L1",
     "elo": 1595.01,
     "match_count": 44,
@@ -1519,15 +1519,15 @@
   },
   "Nantes": {
     "primary_league": "FR1",
-    "elo": 1316.25,
-    "match_count": 33,
+    "elo": 1319.13,
+    "match_count": 34,
     "last_5_results": [],
     "last_5_home": [
-      "W",
       "L",
       "L",
       "D",
-      "W"
+      "W",
+      "D"
     ],
     "last_5_away": [
       "D",
@@ -1536,7 +1536,7 @@
       "L",
       "L"
     ],
-    "last_match_date": "2026-05-08",
+    "last_match_date": "2026-05-17",
     "h2h_history": {},
     "is_top_five": true
   },
@@ -1634,8 +1634,8 @@
   },
   "Toulouse": {
     "primary_league": "FR1",
-    "elo": 1459.08,
-    "match_count": 33,
+    "elo": 1456.2,
+    "match_count": 34,
     "last_5_results": [],
     "last_5_home": [
       "L",
@@ -1645,13 +1645,13 @@
       "W"
     ],
     "last_5_away": [
-      "L",
       "W",
       "L",
       "L",
-      "W"
+      "W",
+      "D"
     ],
-    "last_match_date": "2026-05-10",
+    "last_match_date": "2026-05-17",
     "h2h_history": {},
     "is_top_five": true
   },
@@ -1749,15 +1749,15 @@
   },
   "Alaves": {
     "primary_league": "ES1",
-    "elo": 1474.78,
-    "match_count": 37,
+    "elo": 1458.31,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "D",
-      "D",
       "W",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "last_5_away": [
       "W",
@@ -1766,14 +1766,14 @@
       "D",
       "W"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Barcelona": {
     "primary_league": "ES1",
-    "elo": 1759.26,
-    "match_count": 49,
+    "elo": 1726.49,
+    "match_count": 50,
     "last_5_results": [],
     "last_5_home": [
       "L",
@@ -1786,22 +1786,22 @@
       "W",
       "W",
       "W",
-      "W",
+      "L",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Real Betis": {
     "primary_league": "ES1",
-    "elo": 1562.63,
-    "match_count": 37,
+    "elo": 1574.37,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "D",
       "D",
-      "D",
+      "W",
       "W",
       "W"
     ],
@@ -1812,14 +1812,14 @@
       "D",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Elche": {
     "primary_league": "ES1",
-    "elo": 1456.67,
-    "match_count": 37,
+    "elo": 1457.66,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
@@ -1830,25 +1830,25 @@
     ],
     "last_5_away": [
       "L",
-      "L",
       "W",
       "L",
-      "L"
+      "L",
+      "D"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Girona": {
     "primary_league": "ES1",
-    "elo": 1451.3,
-    "match_count": 37,
+    "elo": 1450.31,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
-      "W",
       "L",
       "L",
+      "D",
       "D"
     ],
     "last_5_away": [
@@ -1858,21 +1858,21 @@
       "D",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Valencia": {
     "primary_league": "ES1",
-    "elo": 1498.6,
-    "match_count": 37,
+    "elo": 1531.37,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
-      "W",
       "L",
       "W",
       "L",
-      "D"
+      "D",
+      "W"
     ],
     "last_5_away": [
       "W",
@@ -1881,21 +1881,21 @@
       "W",
       "W"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Mallorca": {
     "primary_league": "ES1",
-    "elo": 1443.3,
-    "match_count": 37,
+    "elo": 1458.73,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
       "W",
-      "W",
       "D",
-      "D"
+      "D",
+      "W"
     ],
     "last_5_away": [
       "L",
@@ -1904,14 +1904,14 @@
       "L",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Rayo Vallecano": {
     "primary_league": "ES1",
-    "elo": 1524.25,
-    "match_count": 37,
+    "elo": 1540.72,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
@@ -1921,25 +1921,25 @@
       "W"
     ],
     "last_5_away": [
-      "D",
       "L",
       "L",
       "W",
-      "D"
+      "D",
+      "W"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Real Madrid": {
     "primary_league": "ES1",
-    "elo": 1672.46,
-    "match_count": 51,
+    "elo": 1679.44,
+    "match_count": 52,
     "last_5_results": [],
     "last_5_home": [
-      "W",
       "L",
       "D",
+      "W",
       "W",
       "W"
     ],
@@ -1950,21 +1950,21 @@
       "L",
       "W"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Villarreal": {
     "primary_league": "ES1",
-    "elo": 1512.3,
-    "match_count": 45,
+    "elo": 1536.14,
+    "match_count": 46,
     "last_5_results": [],
     "last_5_home": [
       "W",
       "W",
       "W",
-      "W",
-      "L"
+      "L",
+      "W"
     ],
     "last_5_away": [
       "L",
@@ -1973,21 +1973,21 @@
       "D",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Espanyol": {
     "primary_league": "ES1",
-    "elo": 1430.09,
-    "match_count": 37,
+    "elo": 1430.14,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
-      "D",
       "L",
       "D",
       "L",
-      "W"
+      "W",
+      "D"
     ],
     "last_5_away": [
       "D",
@@ -1996,14 +1996,14 @@
       "L",
       "W"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Osasuna": {
     "primary_league": "ES1",
-    "elo": 1436.56,
-    "match_count": 37,
+    "elo": 1424.01,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "D",
@@ -2014,19 +2014,19 @@
     ],
     "last_5_away": [
       "L",
-      "L",
       "D",
+      "L",
       "L",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Real Oviedo": {
     "primary_league": "ES1",
-    "elo": 1376.27,
-    "match_count": 37,
+    "elo": 1360.84,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
@@ -2036,26 +2036,26 @@
       "L"
     ],
     "last_5_away": [
-      "D",
       "L",
       "W",
       "L",
+      "L",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Getafe": {
     "primary_league": "ES1",
-    "elo": 1488.47,
-    "match_count": 37,
+    "elo": 1501.02,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
+      "L",
+      "L",
       "W",
-      "L",
-      "L",
       "W"
     ],
     "last_5_away": [
@@ -2065,14 +2065,14 @@
       "D",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Athletic Bilbao": {
     "primary_league": "ES1",
-    "elo": 1432.28,
-    "match_count": 45,
+    "elo": 1425.3,
+    "match_count": 46,
     "last_5_results": [],
     "last_5_home": [
       "W",
@@ -2084,25 +2084,25 @@
     "last_5_away": [
       "L",
       "L",
-      "L",
       "W",
+      "L",
       "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Celta Vigo": {
     "primary_league": "ES1",
-    "elo": 1505.96,
-    "match_count": 37,
+    "elo": 1518.36,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "L",
       "L",
-      "L",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "last_5_away": [
       "W",
@@ -2111,14 +2111,14 @@
       "W",
       "D"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Sevilla": {
     "primary_league": "ES1",
-    "elo": 1450.58,
-    "match_count": 37,
+    "elo": 1438.18,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "L",
@@ -2131,17 +2131,17 @@
       "L",
       "L",
       "L",
-      "L",
-      "W"
+      "W",
+      "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Real Sociedad": {
     "primary_league": "ES1",
-    "elo": 1471.84,
-    "match_count": 37,
+    "elo": 1471.79,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
@@ -2152,19 +2152,19 @@
     ],
     "last_5_away": [
       "L",
-      "L",
       "D",
       "L",
+      "D",
       "D"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
   "Atletico Madrid": {
     "primary_league": "ES1",
-    "elo": 1581.48,
-    "match_count": 53,
+    "elo": 1557.64,
+    "match_count": 54,
     "last_5_results": [],
     "last_5_home": [
       "L",
@@ -2175,19 +2175,19 @@
     ],
     "last_5_away": [
       "L",
-      "L",
       "W",
       "L",
-      "W"
+      "W",
+      "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-24",
     "h2h_history": {},
     "is_top_five": true
   },
   "Levante": {
     "primary_league": "ES1",
-    "elo": 1492.63,
-    "match_count": 37,
+    "elo": 1480.89,
+    "match_count": 38,
     "last_5_results": [],
     "last_5_home": [
       "W",
@@ -2197,13 +2197,13 @@
       "W"
     ],
     "last_5_away": [
-      "D",
       "L",
       "D",
       "L",
-      "W"
+      "W",
+      "L"
     ],
-    "last_match_date": "2026-05-17",
+    "last_match_date": "2026-05-23",
     "h2h_history": {},
     "is_top_five": true
   },
@@ -2295,7 +2295,7 @@
     "h2h_history": {},
     "is_top_five": false
   },
-  "Copenhagen": {
+  "FC Copenhagen": {
     "primary_league": "CL",
     "elo": 1401.77,
     "match_count": 8,
@@ -2383,7 +2383,7 @@
     "h2h_history": {},
     "is_top_five": false
   },
-  "Olympiacos": {
+  "Olympiakos": {
     "primary_league": "CL",
     "elo": 1426.04,
     "match_count": 10,
@@ -2473,7 +2473,7 @@
     "h2h_history": {},
     "is_top_five": false
   },
-  "Pafos": {
+  "Pafos FC": {
     "primary_league": "CL",
     "elo": 1410.35,
     "match_count": 8,
@@ -2494,7 +2494,7 @@
     "h2h_history": {},
     "is_top_five": false
   },
-  "Kairat": {
+  "Kairat Almaty": {
     "primary_league": "CL",
     "elo": 1298.06,
     "match_count": 8,
